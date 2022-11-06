@@ -2,11 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Counter Social'
+copyright = '2021, Counter Social'
+author = 'Counter Social'
 
-release = '0.1'
+release = '1.0'
 version = '0.1.0'
 
 # -- General configuration
