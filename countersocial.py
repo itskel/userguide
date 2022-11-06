@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Counter Social - A Next-Gen Social Network
 """
 
 __version__ = "0.1.0"
