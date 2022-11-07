@@ -11,7 +11,7 @@ Visit https://counter.social/whojay.html for more info.
 Funding Sources
 ----------------
 
-Counter.Social is funded by Jester as the sole operator of the platform and supplimented the community through a PRO subscription tier unlocking additional features and functionality. The platform also accepts private donations through Donorbox, Patreon, and direct Bitcoin transfers. These funds pay for server, bandwidth, and software needed to keep Counter.Social running with procress toward the monthly goals documented through the meter located in the platform's Navigation column. There are no investors, stakeholders, or VC initiatives funding this project.
+Counter.Social is funded by Jester as the sole operator of the platform and supplimented by the community through a PRO subscription tier unlocking additional features and functionality. The platform also accepts private donations through Donorbox, Patreon, and direct Bitcoin transfers. These funds pay for server, bandwidth, and software needed to keep Counter.Social running with progress toward the monthly goals documented through the meter located in the platform's Navigation column. There are no investors, stakeholders, or VC initiatives funding this project. It is 100% community funded.
 
 Visit https://counter.social/supportcoso.html to support. 
 
