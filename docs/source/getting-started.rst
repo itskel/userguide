@@ -3,7 +3,7 @@ Getting Started
 
 Requirements
 ------------
-Counter.Social is accessible using all modern web browsers or via the official CoSo mobile apps for both iPhone and Android devices. iPad users can access the platform via the device's web browser. The platform is currently unavailable to users located in Russia, China, Iran, Syria, and North Korea, as well as those arriving via VPN, TOR, or proxy. `Why? <https://counter.social/faq.html/>`_ Please whitelist Counter.Social or disable with any adblockers, sheilds, or VPN tunneling.
+Counter.Social is accessible using all modern web browsers or via the official CoSo mobile apps for both iPhone and Android devices. iPad users can access the platform via the device's web browser. The platform is currently unavailable to users located in Russia, China, Iran, Syria, and North Korea, as well as those arriving via VPN, TOR, or proxy. ( `Why? <https://counter.social/faq.html/>`_ ) Please whitelist Counter.Social or disable with any ad blockers, sheilds, or VPN tunneling through your browser or device.
 
 .. image:: img_devicestatus.png
 
@@ -37,7 +37,7 @@ While your @handle is fixed and unchangeable, you may update your Display Name a
 
 Bio
 ^^^^^^^^^^^^^
-Write a short descriptoin of yourself to display on top of your profile page. The character limit is 500. Feel free to include hashtags that define your professions, interests, or group memberships so other users with similar interests can find you.
+Write a short description of yourself to display on top of your profile page. The character limit is 500. Feel free to include hashtags that define your professions, interests, or group memberships so others can find you when searched.
 
 Header
 ^^^^^^^^^^^^^
