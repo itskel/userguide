@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the Counter Social User Guide
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Counter Social** is a next-gen social network system built to counter threats found on traditional mainstream platforms including bots, trolls, disinformation campaigns, and foreign influence operations. Founded in 2017 and created by an American patriot/hacktivat named The Jester also know as th3j35t3r or JΞSŦΞR ✪ ΔCŦUΔL³³º¹, it is the first social network to take an active zero-tolerance stance against adversarial nations engaged in influence operations by blocking the IP ranges of abusive countries, Tor nodes, VPNs, and proxies. 
 
 .. note::
 
