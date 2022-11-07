@@ -10,10 +10,10 @@ Creating Your Account
 ------------
 Your username and email are fixed and can not be changed following account activiation. This is a security feature to prevent bots and trolls from manipulating the platform. Should you wish to change your Username, you will need to delete your account and create another using a unique email address. Please choose wisely. 
 
-To sign up for a free account visit:
+**To sign up for a free account visit:**
 
-Desktop/Browser Version: https://counter.social
-Mobile App Downloads: https://smarturl.it/countersocialapp
+| Desktop/Browser Version: https://counter.social
+| Mobile App Downloads: https://smarturl.it/countersocialapp
 
 
 Setting Up Your Profile
