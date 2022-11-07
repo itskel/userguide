@@ -31,8 +31,24 @@ You can find all prefererences and settings by clicking on the "Edit Profile" li
 
 .. image:: img_editprofilelink.jpg
 
+**Display Name** - While your @handle is fixed and unchangeable, you may update your Display Name at any time. 
 
+**Bio** - Write a short descriptoin of yourself to display on top of your profile page. The character limit is 500.
+
+**Header** - Your header image is the banner that appears on top of your profile page when your screen name or display name are clicked. Please upload a PNG, GIF, or JPG no larger than 2mb. This image will be rescaled to 1500x500px. 
+
+**Avatar** - Your avatar is the photo or image that appears on top of your profile and next to your post. The current default is a cracked egg. Uncrack it now by uploading a PNG, GIF, or JPG image no larger than 2mb in size. Your image will be resized to 85x85 pixels. Square images are preferred.
+
+ 
 
 Configuring Your Preferences
 ------------
-Lorum Ipsum 
+**Publick Landing Page** - CoSo is private by default. Upgrade to PRO to unlock the ability to make your landing page public and sharable with people outside of Counter.Social. PRO users can enable this through the Public Landing Page section found in Profile --> Appearance. Your public link will be visible below the settings box.
+
+**Lock Account** -
+
+**Directory Listing** - 
+
+**Profile Metadata** - 
+
+
