@@ -35,11 +35,11 @@ Display Name
 ^^^^^^^^^^^^^
 While your @handle is fixed and unchangeable, you may update your Display Name at any time. 
 
-**Bio
+Bio
 ^^^^^^^^^^^^^
 Write a short descriptoin of yourself to display on top of your profile page. The character limit is 500. Feel free to include hashtags that define your professions, interests, or group memberships so other users with similar interests can find you.
 
-**Header
+Header
 ^^^^^^^^^^^^^
 Your header image is the banner that appears on top of your profile page when your screen name or display name are clicked. Please upload a PNG, GIF, or JPG no larger than 2mb. This image will be rescaled to 1500x500px. 
 
