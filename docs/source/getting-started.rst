@@ -55,25 +55,25 @@ After you have set up your personal profile, use the field below the profile ima
 
 Public Landing Page (PLP)
 ^^^^^^^^^^^^^
-"CoSo is private by default. This means that your profile and posts are unavailable outside of counter.social and are not index by  3rd party search enginges. Upgrade to PRO to unlock the ability to make your landing page public and sharable with people outside of Counter.Social. PRO users can enable this through the Public Landing Page section found in Profile --> Appearance. Your public share link will be visible below the settings box."
+CoSo is private by default. This means that your profile and posts are unavailable outside of counter.social and are not index by  3rd party search enginges. Upgrade to PRO to unlock the ability to make your landing page public and sharable with people outside of Counter.Social. PRO users can enable this through the Public Landing Page section found in Profile --> Appearance. Your public share link will be visible below the settings box.
 
-"Once enabled, a badge will appear on your profile page letting users know you are open to having your content linked to on 3rd party sites." 
+Once enabled, a badge will appear on your profile page letting users know you are open to having your content linked to on 3rd party sites.
 
 .. image:: img_plpenabled.jpg
 
 Lock Account
 ^^^^^^^^^^^^^
-"Check the box to make your profile private all CoSo Users except those you have accepted as friends. If this box is checked, you will need to manually approve all friend requests. These will appear in your notifications column. "
+Check the box to make your profile private all CoSo Users except those you have accepted as friends. If this box is checked, you will need to manually approve all friend requests. These will appear in your notifications column. 
 
 
 Directory Listing (Coming Soon)
 ^^^^^^^^^^^^^
-"While the Directory is currently in development, select this box to be included in a searchable index of Counter.Social users. If you have included hashtags in your bio, your profile will be listed in each respective hashtag group. "
+While the Directory is currently in development, select this box to be included in a searchable index of Counter.Social users. If you have included hashtags in your bio, your profile will be listed in each respective hashtag group. 
 
 
 Profile Metadata
 ^^^^^^^^^^^^^
-"CoSo allows you to display up to 4 links in a table at the top of your bio. These links can include your website, other social media sites, newspaper/blog, or even non-link data. A verification method is provided to insure that the links you have entered are indeed sites you control. This feature prevents abusers from impersonating others or using CoSo for phishing campaigns. If you would like to verify your links and need help, simply create a post on counter.social and use the #help hashtag. "
+CoSo allows you to display up to 4 links in a table at the top of your bio. These links can include your website, other social media sites, newspaper/blog, or even non-link data. A verification method is provided to insure that the links you have entered are indeed sites you control. This feature prevents abusers from impersonating others or using CoSo for phishing campaigns. If you would like to verify your links and need help, simply create a post on counter.social and use the #help hashtag.
 
 
 
