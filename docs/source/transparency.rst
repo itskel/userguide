@@ -33,9 +33,9 @@ Counter.Social is a hard fork of the Mastodon network under the Free Software Fo
 Policies and Licenses
 ----------------
 
-Licensing:  https://counter.social/terms.html
-Terms of Service: https://counter.social/license.html
-Privacy Policy: https://counter.social/privacy.html
-DMCA Policy: https://counter.social/dmca.html
-GDPR Policy: https://counter.social/gdpr.html
-CCPA Policy: https://counter.social/ccpa.html
+| Licensing:  https://counter.social/terms.html
+| Terms of Service: https://counter.social/license.html
+| Privacy Policy: https://counter.social/privacy.html
+| DMCA Policy: https://counter.social/dmca.html
+| GDPR Policy: https://counter.social/gdpr.html
+| CCPA Policy: https://counter.social/ccpa.html
