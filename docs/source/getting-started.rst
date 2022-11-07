@@ -45,7 +45,9 @@ Configuring Your Preferences
 ------------
 After you have set up your personal profile, use the field below the profile image uploader to set up the following preferences:
 
-**Publick Landing Page** - CoSo is private by default. This means that your profile and posts are unavailable outside of counter.social and are not index by  3rd party search enginges. Upgrade to PRO to unlock the ability to make your landing page public and sharable with people outside of Counter.Social. PRO users can enable this through the Public Landing Page section found in Profile --> Appearance. Your public share link will be visible below the settings box.
+**Publick Landing Page**
+^^^^^^^^^^^^^
+CoSo is private by default. This means that your profile and posts are unavailable outside of counter.social and are not index by  3rd party search enginges. Upgrade to PRO to unlock the ability to make your landing page public and sharable with people outside of Counter.Social. PRO users can enable this through the Public Landing Page section found in Profile --> Appearance. Your public share link will be visible below the settings box.
 
 Once enabled, a badge will appear on your profile page letting users know you are open to having your content linked to on 3rd party sites. 
 
