@@ -1,4 +1,4 @@
-Usage
+Transparency
 =====
 
 .. _installation:
