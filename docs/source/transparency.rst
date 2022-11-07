@@ -1,18 +1,14 @@
 Transparency
 =====
 
-.. _whoisjester:
-
-Who is Th3J3st3r
+Who is Th3J3st3r?
 ------------
+The Jester is a prolific hactivist and the creator of Counter.Social. He is listed in TIME Magazine's Most Influential People Online and his laptop is exhibited in the International Spy Museum in Washington, DC. Some may have noticed his cameo role in the TV Show, *Mr. Robot*. His alleged escapades can be found covered by NBC, Homeland Security Today, Gizmodo, Newsweek, Tech Insider, and the Larry King Show. 
 
-To use Lumache, first install it using pip:
+Visit <https://counter.social/whojay.html for more info. 
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
-
-Creating recipes
+How is Counter.Social Funded?
 ----------------
 
 To retrieve a list of random ingredients,
