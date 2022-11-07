@@ -31,17 +31,17 @@ You can find all prefererences and settings by clicking on the "Edit Profile" li
 
 .. image:: img_editprofile.png
 
-.. note:: Remember to scroll to the bottom of the page and hit the SAVE button to save your changes.
+.. note:: Remember to scroll to the bottom of the page and hit the SAVE button after making any changes.
 
 Display Name
 ^^^^^^^^^^^^^
 While your @handle is fixed and unchangeable, you may update your Display Name at any time. The character limit is 24. 
 
-Other than badges and a blue check to denote PRO members, CounterSocial does not grant special status or symbols to individual accounts. Many include symbols such as check marks and country flags by adding an emoji to their display name. 
+Other than badges and a blue check to denote PRO members, CounterSocial does not grant special status or symbols to individual accounts. Many users include symbols such as check marks and country flags by adding an emoji to their display name. 
 
 #. In the text area, click on Insert Emoji (symbol) to reveal the list of system and custom emojis.
 #. Scroll through them and find something snazzy.
-#. Tap to enter one or more into the text area.
+#. Tap to enter one (or more) into the text area.
 #. Copy the symbol(s) and go immediately to Edit Profile. If a pop up asking if you want to *Leave site?* appears, click yes and continue to the *Edit profile* area.
 #. Paste the symbol(s) in either the Display Name or Bio fields. Don’t forget to scroll down and Save before returning to CounterSocial.
 
@@ -85,8 +85,4 @@ Profile Metadata
 ^^^^^^^^^^^^^
 CoSo allows you to display up to 4 links in a table at the top of your bio. These links can include your website, other social media sites, newspaper/blog, or even non-link data. A verification method is provided to insure that the links you have entered are indeed sites you control. This feature prevents abusers from impersonating others or using CoSo for phishing campaigns. If you would like to verify your links and need help, simply create a post on counter.social and use the #help hashtag.
 
-
-
-
-
-
+.. attention:: Remember to scroll to the bottom of the page and hit the SAVE button after making any changes.
