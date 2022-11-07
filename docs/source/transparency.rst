@@ -1,9 +1,9 @@
 Transparency
 =====
 
-.. _installation:
+.. _whoisjester:
 
-Installation
+Who is Th3J3st3r
 ------------
 
 To use Lumache, first install it using pip:
