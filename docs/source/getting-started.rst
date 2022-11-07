@@ -5,7 +5,7 @@ Requirements
 ------------
 Counter.Social is accessible using all modern web browsers and via the official CoSo mobile apps for both iPhone and Android devices. iPad users can access the platform via the device's web browser. The platform is currently unavailable to users located in Russia, China, Iran, Syria, and North Korea, as well as those arriving via VPN, TOR, or proxy. Please whitelist Counter.Social or disable with any adblockers, sheilds, or VPN tunneling.
 
-.. image:: img_devicestatus.jpg
+.. image:: img_devicestatus.png
 
 
 
@@ -29,7 +29,7 @@ Setting Up Your Profile
  
 You can find all prefererences and settings by clicking on the "Edit Profile" link found above the post post in the left column or on the top of your profile page. 
 
-.. image:: img_editprofilelink.jpg
+.. image:: img_editprofile.png
 
 **Display Name** - While your @handle is fixed and unchangeable, you may update your Display Name at any time. 
 
