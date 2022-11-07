@@ -17,5 +17,6 @@ Contents
 .. toctree::
 
    transparency
+   getting-started
 
    
