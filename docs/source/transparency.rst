@@ -27,7 +27,7 @@ Existing users can access this data at anytime at https://netops.counter.social 
 Relationship to Mastodon
 ----------------
 
-Counter.Social is a hard fork of the Mastodon network under the Free Software Foundation (FSF) Affero General Public License (AGPL). At this time, we are an indepedent instance seperated from the Mastodon federation. CoSo has it's own Terms of Service and additional features installed on separate servers to suppliment this software.
+Counter.Social is a hard fork of the Mastodon network under the Free Software Foundation (FSF) Affero General Public License (AGPL). At this time, we are an indepedent instance seperated from the Mastodon federation. CoSo has it's own Terms of Service and additional features installed on separate servers to suppliment Mastodon software with proprietary security and resources for the health and safety of the community.
 
 
 License & Policies
