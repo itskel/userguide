@@ -30,7 +30,7 @@ Relationship to Mastodon
 Counter.Social is a hard fork of the Mastodon network under the Free Software Foundation (FSF) Affero General Public License (AGPL). At this time, we are an indepedent instance seperated from the Mastodon federation. CoSo has it's own Terms of Service and additional features installed on separate servers to suppliment this software.
 
 
-Policies and Licenses
+License & Policies
 ----------------
 
 | Licensing:  https://counter.social/terms.html
