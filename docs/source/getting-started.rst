@@ -5,20 +5,7 @@ Requirements
 ------------
 Counter.Social is accessible using all modern web browsers and via the official CoSo mobile apps for both iPhone and Android devices. iPad users can access the platform via the device's web browser. The platform is currently unavailable to users located in Russia, China, Iran, Syria, and North Korea, as well as those arriving via VPN, TOR, or proxy. Please whitelist Counter.Social or disable with any adblockers, sheilds, or VPN tunneling.
 
-+------------------------+------------+----------+----------+
-| Stable        | Bugs     | Header 3 | Header 4 |
-|               |          |          |          |
-+========================+============+==========+==========+
-| Chrome/Brave  | Firefox  | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| Edge          |          |          |          |
-+------------------------+------------+----------+----------+
-| Safari        |          |          |          |
-+------------------------+------------+----------+----------+
-| IPhone App    |          |          |          |
-+------------------------+------------+----------+----------+
-| Android App   |          |          |          |
-+------------------------+------------+----------+----------+
+.. image:: /images/devicestatus.jpg
 
 
 Creating Your Account
