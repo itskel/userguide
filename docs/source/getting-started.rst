@@ -8,9 +8,13 @@ Counter.Social is accessible using all modern web browsers and via the official 
 .. image:: img_devicestatus.jpg
 
 
+
+
 Creating Your Account
 ------------
 Your username and email are fixed and can not be changed following account activiation. This is a security feature to prevent bots and trolls from manipulating the platform. Should you wish to change your Username, you will need to delete your account and create another using a unique email address. Please choose wisely. 
+
+Following sign-up, you will receive an email from Counter.Social with instructions on activating your account. 
 
 **To sign up for a free account visit:**
 
@@ -18,9 +22,16 @@ Your username and email are fixed and can not be changed following account activ
 | Mobile App Downloads: https://smarturl.it/countersocialapp
 
 
+
+
 Setting Up Your Profile
 ------------
-Lorum Ipsum 
+ 
+You can find all prefererences and settings by clicking on the "Edit Profile" link found above the post post in the left column or on the top of your profile page. 
+
+.. image:: img_editprofilelink.jpg
+
+
 
 Configuring Your Preferences
 ------------
