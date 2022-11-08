@@ -4,7 +4,7 @@ Browsing Content
 The Desktop Layout
 ------------
 
-.. image:: img_layoutguide.jpg
+.. image:: img_destoplayout.jpg
 
 .. tip:: Visit your preferences to enable "Ostrich Mode" for a more minimal desktop layout. This mode will remove the "extras" including the news ticker, CoSoCom emergency radio scanner, and live news station feeds.
 
