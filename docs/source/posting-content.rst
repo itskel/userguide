@@ -1,8 +1,6 @@
 Posting Content
 =====
 
-
-
 The Post Box
 ------------
 .. image:: img_postboxlegend.jpg
@@ -62,10 +60,10 @@ Once you have configured your post, you can set the privacy at the post level. U
 **Direct Message (PRO Feature)** - Visible to only the user that is mentioned in the post. The receiptient will recive a notification. All DMs are encrypted and cannot be accessed by any party, including Jester, unless they are mentioned. Establishing this as a PRO feature eliminates DM spam, scams, and phishing attempts. In the case you are a regular subscriber and wish to  have a private conversation with a PRO user, you can ask them to initiate the DM from their side. 
 
 
-Delete & Redraft
-^^^^^^^^^^^^^
+Editing Existing Posts
+------------
 Rejoice! A version of the "edit" button has arrived. After you have posted, if you need to make changes to your post, click the three dots in the bottom right corner and select "Delete & Redraft" to make changes and repost. Keep in mind, all boosts and favorites will be reset and any replies will not be linked to the new version.
 
 .. image:: img_deleteandredraft.jpg
 
-You can also delete the post completely or "Pin on Profile" to make it appear at the top of your Profile page indefinantely. 
+You can also delete the post completely or select "Pin on Profile" to make it sticky at the top of your Profile page. 
