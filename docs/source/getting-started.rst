@@ -83,6 +83,10 @@ While the Directory is currently in development, select this box to be included 
 
 Profile Metadata
 ^^^^^^^^^^^^^
-CoSo allows you to display up to 4 links in a table at the top of your bio. These links can include your website, other social media sites, newspaper/blog, or even non-link data. A verification method is provided to insure that the links you have entered are indeed sites you control. This feature prevents abusers from impersonating others or using CoSo for phishing campaigns. If you would like to verify your links and need help, simply create a post on counter.social and use the #help hashtag.
+CoSo allows you to display up to 4 items in a table at the top of your bio. You can use these fields to display your location, pronouns, website/social links, or labels. 
+
+If including links, a verification method is provided to insure that the links you have entered are indeed sites you control. This feature prevents abusers from impersonating others or using CoSo for phishing campaigns. If you would like to verify your links and need help, simply create a post on counter.social and use the #help hashtag. 
+
+.. image:: img_verifiedlinks.jpg
 
 .. attention:: Remember to scroll to the bottom of the page and hit the SAVE button after making any changes.
