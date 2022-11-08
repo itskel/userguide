@@ -18,4 +18,5 @@ Contents
 
    transparency
    getting-started
-   posting-content  
+   posting-content
+   browsing-content
