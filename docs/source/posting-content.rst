@@ -11,7 +11,7 @@ The Post Box is located in the left column on desktop version or by pretting the
 
 Links & Link Sanitizer
 ------------
-When posting links, only the first 23 characters will appear regardless of the original legnth. The Counter.Social platform includes a link sanitizer that will automatically scrub out advertising tracking variables attached to links from 3rd party sites to protect your privacy. In the case where this impacts your link's functionality type *nosanitize* anywhere in your post to turn off this feature. The most common use case for this is time-stamped YouTube links. 
+When posting links, only the first 23 characters will appear regardless of the original legnth. CounterSocial doesn't track its users, but even better than that - we don't let 3rd parties track you either. All outbound links are automagically sanitized to remove any embedded tracking parameters. In the case where this impacts your link's functionality type *nosanitize* anywhere in your post to turn off this feature. The most common use case for this is time-stamped YouTube links. 
 
 Once posted, the platform will automatically pull up the link preview content including news headlines, article card images, and/or functional media players such as YouTube, Bandcamp, Soundcloud, and Spotify. These link previews are generated the first time your link is clicked or the next time you refresh your feed.
 
@@ -38,8 +38,6 @@ Once attached, hover over the image thumbnail and click the "Change Preview" lin
 
 .. warning:: If your image, GIF, or video is NSWF, contains mature, adult or graphic content, or may negativelly impact those with PTSD or photosensitivity issues, please click the eye icon to mark your media as sensitive and/or add a content warning to your post. Be advised, Counter.Social is committed to providing NO SAFE HAVEN for Child Sex Abuse Material. All uploaded images are hashed and compared against NCMEC databases of known CSAM hashes at our infrastructure edge. 
 
-Polls
-------------
 
 Post Privacy Settings
 ------------
@@ -52,11 +50,6 @@ Followers-Only (PRO Feature)
 
 Direct Message (PRO Feature)
 
-Exploding Posts (PRO Feature)
-------------
-
-Content Warning
-------------
 
 Mentions & Replies
 ------------
