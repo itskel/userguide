@@ -1,0 +1,35 @@
+Accessibility Features
+=====
+
+Light/Dark Mode
+------------
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+
+PreCog Reading Mode (Beta)
+------------
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+
+Adjusting Font Size
+------------
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+
+Animated GIF Motion Control
+------------
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+
