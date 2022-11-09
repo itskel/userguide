@@ -10,11 +10,11 @@ While the custom has become a proud tradition and testiment to the Community's c
 
 **Here are some example greetings to help you find your own voice:**
 
-| "Hi! Welcome. "
-| 
-| "Welcome to CoSo. If you need help, ask away. Everyone's friendly."
-| 
-| "Welcome. Visit @CoSoTips for the user guide and FAQs." 
+::.| "Hi! Welcome. "
+  | 
+  | "Welcome to CoSo. If you need help, ask away. Everyone's friendly."
+  | 
+  | "Welcome. Visit @CoSoTips for the user guide and FAQs." 
 
 1-year-old users helping 1-week-old users helping 1-day-old users helping 1-minute-old users... **This is the CoSo Way!**
 
