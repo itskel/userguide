@@ -1,8 +1,6 @@
 Promoting CoSo
 =====
-
-| 
-| 
+ 
 Welcoming New Users
 ------------
 
