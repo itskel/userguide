@@ -4,17 +4,17 @@ Promoting CoSo
 Welcoming New Users
 ------------
 
-If you are a new user, by the time you finish reading this, your notifications column may have already filled messages. No, these are not bots. These are existing members of the community making sure you feel welcome. CounterSocial is moderated by the community and all are welcome to participate. This "welcome wagon" not only serves the purpose of onboarding new users, but also helps review all new accounts for abuse including the use of hate speech in usernames, profile photos, and imagery. It's also the perfect icebreaker for meeting new friends. 
-
-1-year old users helping 1-month old users helping 1-week old users helping 1-day old users helping 1-minute old users... This is the CoSo way. 
+If you are a new user, by the time you finish reading this, your notifications column may have already filling up with messages. No, these are not bots. These are existing members of the community making sure you feel welcome. This "welcome wagon" not only serves the purpose of onboarding new users, but also helps crowdsource the review of all new accounts for use of hate speech in usernames, profile photos, and imagery. It's also the perfect icebreaker for meeting new friends. 
 
 While the custom has become a proud tradition and testiment to the Community's committment to fostering a healthier online space, keep in mind that new useres are just arriving an need time to acclimate. Keep it short, friendly, and geniune. 
 
 **Here are some example greetings to help you find your own voice:**
 
-| Hi! Welcome. 
-| Welcome to CoSo. If you need help, ask away. Everyone's friendly.
-| Welcome. Head to @CoSoTips for the user guide and FAQs. 
+| "Hi! Welcome. "
+| 
+| "Welcome to CoSo. If you need help, ask away. Everyone's friendly."
+| 
+| "Welcome. Visit @CoSoTips for the user guide and FAQs." 
 
 
 Promoting Your Account on Other Sites
@@ -29,15 +29,6 @@ Have you joined us from another platform, but aren't quite sure how to tell your
 | **Download Profile Picture**: https://share.counter.social/s/11ea40
 | **Download Header**: https://share.counter.social/s/d582f0
 
-
-Dispelling Misinformation
-------------
-
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
 
 CoSo Media Assets
 ------------
