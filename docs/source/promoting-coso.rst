@@ -1,6 +1,8 @@
 Promoting CoSo
 =====
 
+| 
+| 
 Welcoming New Users
 ------------
 
@@ -16,8 +18,9 @@ While the custom has become a proud tradition and testiment to the Community's c
       | 
       | "Welcome. Visit @CoSoTips for the user guide and FAQs." 
 
-**1-year-old users helping 1-week-old users helping 1-day-old users helping 1-minute-old users… This is the CoSo Way!**
 
+| 
+| 
 
 Promoting Your Account on Other Sites
 ------------
@@ -31,7 +34,8 @@ Have you joined us from another platform, but aren't quite sure how to tell your
 | **Download Profile Picture**: https://share.counter.social/s/11ea40
 | **Download Header**: https://share.counter.social/s/d582f0
 
-
+| 
+| 
 CoSo Media Assets
 ------------
 
@@ -41,7 +45,8 @@ CoSo Media Assets
 
 **Download Graphics (ZIP)**:  https://share.counter.social/s/76ccb4
 
-
+| 
+| 
 Press Requests
 ------------
 
