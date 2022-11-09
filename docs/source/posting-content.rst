@@ -1,8 +1,7 @@
 Posting Content
 =====
-Last Updated 11/9/2022. 
 
-.. attention:: Need help? Write a post and include the #help hastag for support from the community. 
+.. note:: Last Updated: November 9, 2022. 
 
 The Post Box
 ------------
@@ -10,22 +9,33 @@ The Post Box
 
 The Post Box is located in the left column on desktop version or by pretting the blue pencil icon on the bottom right corner of your mobile device. The default character limit for text posts is 500 characters and can include links, hashtags, polls, content warnings, and emojis. PRO users can adjust privacy at the post-level as well as set an expiration date for a post to expire and self-distruct. 
 
+| 
+| 
 Links & Link Sanitizer
 ------------
 CounterSocial doesn't track its users, but even better than that - we don't let 3rd parties track you either. All outbound links are automagically sanitized to remove any embedded tracking parameters. In the case where this impacts your link's functionality type *nosanitize* anywhere in your post to turn off this feature. The most common use case for this is time-stamped YouTube videos. 
 
 Once posted, the platform will automatically pull up the link preview content including news headlines, article card images, and/or functional media players such as YouTube, Bandcamp, Soundcloud, and Spotify. These link previews are generated the first time your link is clicked or the next time you refresh your feed.
 
+| 
+| 
 Hashtags
 ------------
 To make your posts more searchable and discoverable by other users, add a hashtag by prepending a keyword with the pound(#) symbol. As you type, you will see suggested hashtags already in use below the post box. Counter.Social is hashtrag-driven with many users configuring their feeds to only display the hashtags and keywords they are interested in, or by using filters to omit this content from their view.  
 
+`Click Here <https://coso-userguide.readthedocs.io/en/latest/popular-hashtags.html>`_ for a list of the most commonly used hashtags.
+
+
 .. tip:: Counter.Social was originally an instance on the Mastodon network where multiple communities shared a central "Community Firehose." During this time, CoSo users would often prepend hashtags with #CoSo to differentiate between our community and others. While we are no longer connected to Mastodon's Federation, the hashtags are still in use and popular to this day. Examples include #CoSoMusic, #CoSoArt, #CoSoTips, #WritersofCoSo, #DogsofCoso, and others. 
 
+| 
+| 
 Attaching Media & Files
 ------------
 Click on the camera icon to attach photos, animated GIFs, or videos to your post. On the desktop version, you can also drag-and-drop the media file to the post box to auto-upload. If you would like to share other files types, visit https://share.counter.social/ (also found in the right navigation column) to use CoSo's secure file sharing service, CounterShare. 
 
+| 
+| 
 Media File Types
 ^^^^^^^^^^^^^
 
@@ -35,12 +45,16 @@ Media File Types
 
 .. tip:: Counter.Social automatically scrubs all meta-data from your media files including the date, location, and camera settings. This includes photo orientation. If you upload an image and it is upside down or on its side, make an inconsequential edit, save it, and then reupload.  
 
+| 
+| 
 Editing Media
 ^^^^^^^^^^^^^
 Once attached, hover over the image thumbnail and click the "Change Preview" link to adjust the image preview and add a text description for the visually impared. This discription appears for users accessing Counter.Social via a screen reader or other similar technology. 
 
 .. warning:: If your image, GIF, or video is NSWF, contains mature, adult or graphic content, or may negativelly impact those with PTSD or photosensitivity issues, please click the eye icon to mark your media as sensitive and/or add a content warning to your post. Be advised, Counter.Social is committed to providing NO SAFE HAVEN for Child Sex Abuse Material. All uploaded images are hashed and compared against NCMEC databases of known CSAM hashes at our infrastructure edge. 
 
+| 
+| 
 Setting Your Media Preferences
 ^^^^^^^^^^^^^
 Navigate to Edit Profile --> Preferences and scroll to the *Media Display* section to configure how you want media to display in your personal feeds. You can automatically hide all media marketed as "sensitive," choose if animated GIFs auto-play or even reduce their motion. 
@@ -48,6 +62,8 @@ Navigate to Edit Profile --> Preferences and scroll to the *Media Display* secti
 .. image:: img_mediasettings.jpg
 
 
+| 
+| 
 Post Privacy Settings
 ------------
 Once you have configured your post, you can set the privacy at the post level. Upgrade to the PRO version to unlock unlisted, private, and direct message posting. You can also go to Edit Profile --> Preferences to set the default privacy level for all future posts. 
@@ -63,6 +79,8 @@ Once you have configured your post, you can set the privacy at the post level. U
 **Direct Message (PRO Feature)** - Visible to only the user that is mentioned in the post. The receiptient will recive a notification. All DMs are encrypted and cannot be accessed by any party, including Jester, unless they are mentioned. Establishing this as a PRO feature eliminates DM spam, scams, and phishing attempts. In the case you are a regular subscriber and wish to  have a private conversation with a PRO user, you can ask them to initiate the DM from their side. 
 
 
+| 
+| 
 Editing Existing Posts
 ------------
 Rejoice! A version of the "edit" button has arrived. After you have posted, if you need to make changes to your post, click the three dots in the bottom right corner and select "Delete & Redraft" to make changes and repost. Keep in mind, all boosts and favorites will be reset and any replies will not be linked to the new version.
@@ -70,3 +88,8 @@ Rejoice! A version of the "edit" button has arrived. After you have posted, if y
 .. image:: img_deleteandredraft.jpg
 
 You can also delete the post completely or select "Pin on Profile" to make it sticky at the top of your Profile page. 
+
+
+| 
+| 
+.. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
