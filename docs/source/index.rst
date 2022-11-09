@@ -20,8 +20,9 @@ Contents
    getting-started
    posting-content
    browsing-and-curation
+   accessibility
    pro-features
    promoting-coso
-   accessibility
    troubleshooting-faqs
+   popular-hashtags
    developer-resources
