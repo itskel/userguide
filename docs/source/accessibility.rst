@@ -1,9 +1,7 @@
 Accessibility Features
 =====
 
-Last Updated 11/9/2022. 
-
-.. attention:: Need Support? Write a post and include the #help hastag for support from the community. 
+.. note:: Last Updated: November 9, 2022.  
 
 
 
@@ -51,3 +49,4 @@ Animated GIF Motion Control
 | 
 |
 
+.. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
