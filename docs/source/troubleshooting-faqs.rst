@@ -1,9 +1,10 @@
 Troubleshooting & FAQs
 =====
 
-Last Updated 11/9/2022. 
+IN PRODUCTION - FIND FAQS FROM COSOTIPS + LINK TO THE SECTION IN THE USER GUIDE THAT ANSWERS EACH QUESTION
 
-.. attention:: Need help on something not covered below? Write a post and include the #help hastag for support from the community. 
+.. note:: Last Updated: November 9, 2022.  
+
 
 **Is there a way to switch CounterSocial to a light background?**
 **A:** 
@@ -40,6 +41,10 @@ Last Updated 11/9/2022.
 
 **I am having problems with my PRO subscription. How do I get help?**
 **A:** 
+
+| 
+| 
+.. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community.
 
 
 
