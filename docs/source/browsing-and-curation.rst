@@ -48,6 +48,18 @@ How to Add or Remove Columns
 | 
 | 
 
+How to Filter Content (New)
+------------
+| 
+| 
+| 
+| 
+| IN PRODUCTION - Writer: Bluesbaby/Phase
+| 
+| 
+| 
+| 
+
 How to Follow Users
 ------------
 | 
@@ -79,6 +91,18 @@ How Mute & Block Users
 | 
 | 
 | IN PRODUCTION - Writer: Bluesbaby
+| 
+| 
+| 
+| 
+
+How to Mute Hashtags & Keywords (New)
+------------
+| 
+| 
+| 
+| 
+| IN PRODUCTION - Writer: Bluesbaby/Phase
 | 
 | 
 | 
