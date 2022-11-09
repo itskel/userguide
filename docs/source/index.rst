@@ -24,3 +24,4 @@ Contents
    promoting-coso
    accessibility
    troubleshooting-faqs
+   developer-resources
