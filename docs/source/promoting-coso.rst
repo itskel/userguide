@@ -4,11 +4,11 @@ Promoting CoSo
 Welcoming New Users
 ------------
 
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+| In Production - Writer: Phase
+| 
+| 
+| 
+| 
 
 Promoting Your Account on Other Sites
 ------------
@@ -30,12 +30,11 @@ Dispelling Misinformation
 
 CoSo Media Assets
 ------------
-| Get assets from Kel and host via CoSoShare
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+| In Production - Writer: Phase
+| 
+| 
+| 
+| 
 
 Press Requests
 ------------
