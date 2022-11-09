@@ -1,6 +1,6 @@
 Popular Hashtags
 =====
-While the CoSo Direcgtory is in development, here are a list of popular hashtags used on CounterSocial. You can also visit your preferences to filter out any of these hashtags from your feeds.
+While the CoSo Direcgtory is in development, here are a list of popular hashtags used on CounterSocial. Why are hashtags so important here? Mostly because there's no algorithm manipulating your feeds at CoSo. Hashtags allow those with similar interests to find your stuff, but they're also a considerate way to help others filter it out. 
 
 (A-Z)
 
