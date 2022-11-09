@@ -1,9 +1,7 @@
 Browsing & Curation
 =====
 
-Last Updated 11/9/2022. 
-
-.. attention:: Need help? Write a post and include the #help hastag for support from the community. 
+.. note:: Last Updated: November 9, 2022. 
 
 The Desktop Layout
 ------------
@@ -16,13 +14,15 @@ CounterSocial's (CoSo) layout presents various content in a series of columns. Y
 
 For an expanded, in-depth overview of the destop layout, visit CoSo user @MLClark's `article on OnlySk <https://onlysky.media/mclark/countersocial-isnt-the-new-twitter-its-something-way-better/>`_ 
 
-
-
+| 
+| 
 The Navigation + View Column
 ------------
 
 When you click on any profile name, hashtag, or post, contents will automatically override the right navigation column, giving you an expanded view of the contents including threads, post replies, hashtag feeds, and full user profiles. When you are done, click the "Back" button at the top to return home to the navigation column. You can reset this column at anytime by clicking the G and S keys at the same time, or by clicking the Counter Social logo. 
 
+| 
+| 
 Notification Column + Settings
 ------------
 | 
@@ -35,7 +35,8 @@ Notification Column + Settings
 | 
 | 
 
-
+| 
+| 
 How to Add or Remove Columns
 ------------
 
@@ -109,3 +110,4 @@ How to Mute Hashtags & Keywords (New)
 | 
 | 
 | 
+.. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
