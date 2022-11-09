@@ -31,16 +31,18 @@ Dispelling Misinformation
 CoSo Media Assets
 ------------
 
+Logos & Icons
 .. image:: img_graphics.jpg
 
 Download Graphics ZIP:  https://share.counter.social/s/76ccb4
 
+Social Media Banners + Avatars
+
+Download Social Media ZIP: (Coming Soon)
+
+
 
 Press Requests
 ------------
-| Get information from J
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+
+For interviews or features requests please email: Press(@)counter.social
