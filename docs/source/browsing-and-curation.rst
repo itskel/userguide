@@ -12,7 +12,7 @@ CounterSocial's (CoSo) layout presents various content in a series of columns. Y
 
 .. image:: img_destoplayout.jpg
 
-For an expanded, in-depth overview of the destop layout, visit CoSo user @MLClark's `article on OnlySk <https://onlysky.media/mclark/countersocial-isnt-the-new-twitter-its-something-way-better/>`_ 
+For an expanded, in-depth overview of the destop layout, visit CoSo user @MLClark's `article on OnlySky Media <https://onlysky.media/mclark/countersocial-isnt-the-new-twitter-its-something-way-better/>`_.
 
 | 
 | 
