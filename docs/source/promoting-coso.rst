@@ -1,6 +1,10 @@
 Promoting CoSo
 =====
- 
+
+Last Updated 11/9/2022. 
+
+.. attention:: Need help? Write a post and include the #help hastag for support from the community. 
+
 Welcoming New Users
 ------------
 
