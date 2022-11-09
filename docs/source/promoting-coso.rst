@@ -1,9 +1,8 @@
 Promoting CoSo
 =====
 
-Last Updated 11/9/2022. 
+.. note:: Last Updated November 9, 2022. 
 
-.. attention:: Need help? Write a post and include the #help hastag for support from the community. 
 
 Welcoming New Users
 ------------
@@ -53,3 +52,5 @@ Press Requests
 ------------
 
 For interviews or feature requests please email **Press(@)counter.social** and include your name, publication, and links to previously published stories for consideration. 
+
+.. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
