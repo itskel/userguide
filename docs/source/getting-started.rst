@@ -3,7 +3,7 @@ Getting Started
 
 Last Updated 11/9/2022. 
 
-.. attention:: Need Support? Write a post and include the #help hastag for support from the community. 
+.. attention:: Need help? Write a post and include the #help hastag for support from the community. 
 
 Requirements
 ------------
