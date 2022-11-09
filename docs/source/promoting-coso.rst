@@ -30,11 +30,11 @@ Dispelling Misinformation
 
 CoSo Media Assets
 ------------
-| In Production - Writer: Phase
-| 
-| 
-| 
-| 
+
+.. image:: img_graphics.jpg
+
+Download Graphics ZIP:  https://share.counter.social/s/76ccb4
+
 
 Press Requests
 ------------
