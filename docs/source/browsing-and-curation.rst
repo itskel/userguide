@@ -1,4 +1,4 @@
-Browsing Content
+Browsing & Curation
 =====
 
 IN PROGRESS - NOT FINISHED
