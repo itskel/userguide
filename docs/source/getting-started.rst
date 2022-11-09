@@ -59,9 +59,9 @@ Header
 ^^^^^^^^^^^^^
 Your header image is the banner that appears on top of your profile page when your screen name or display name are clicked. Please upload a PNG, GIF, or JPG no larger than 2mb. This image will be rescaled to 1500x500px.
 
-These examples show a profile with and without a header:
+These examples show profiles with and without a header:
 
-.. image:: img_headervsnoheader.jpg
+.. image:: img_avatarheader.jpg
 
 Avatar
 ^^^^^^^^^^^^^
