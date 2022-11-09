@@ -23,56 +23,62 @@ When you click on any profile name, hashtag, or post, contents will automaticall
 
 Notification Column + Settings
 ------------
-| In Production
-| 
-| AMYFB IS WRITING
 | 
 | 
-
+| 
+| 
+| IN PRODUCTION - Writer: AmyFB
+| 
+| 
+| 
+| 
 
 
 How to Add or Remove Columns
 ------------
 
 .. image:: img_columnsettings.jpg
-
+| 
+| 
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
-
+| 
+| 
 How to Follow Users
 ------------
+| 
+| 
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
+| 
+| 
 
 How to Create & Manage Lists
 ------------
-
+| 
+| 
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
-
+| 
+| 
 
 How Mute & Block Users
 ------------
-
+| 
+| 
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
-
-
-
-
-
-
-
-
+| 
+| 
