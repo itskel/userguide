@@ -1,6 +1,8 @@
 Browsing Content
 =====
 
+IN PROGRESS - NOT FINISHED
+
 The Desktop Layout
 ------------
 
