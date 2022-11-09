@@ -23,11 +23,11 @@ When you click on any profile name, hashtag, or post, contents will automaticall
 
 Notification Column + Settings
 ------------
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+| In Production
+| 
+| AMYFB IS WRITING
+| 
+| 
 
 
 
