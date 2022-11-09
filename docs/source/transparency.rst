@@ -9,6 +9,10 @@ Th3J3st3r is a prolific hacktivist and the creator of Counter.Social. He is list
 
 Visit https://counter.social/whojay.html for more info. 
 
+The CounterSocial Team
+------------
+
+CounterSocial does not have any excutives, board of directors, or employees and is operated and managed solely by Jester. The CoSo community self-moderates through a unique structure that surfaces troll, bot, and abuse sightings, escalates support issues, and empowers every user to contribute to the health and safety of the overall platform. 
 
 Funding Sources
 ----------------
