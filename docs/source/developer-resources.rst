@@ -10,6 +10,6 @@ CounterSocial has a strict policy against bots or automation scripts designed to
 API & SDK
 ----------
 
-.. note:: API access is currently locked down to new projects. Please email developers(at)counter.social for consideration.
+.. note:: API access is currently unavailable without prior approval. Please email developers(at)counter.social for consideration.
 
 For information about CounterSocial's API and SDK resources please visit: https://counter.social/apidocs/client/intro/index.html
