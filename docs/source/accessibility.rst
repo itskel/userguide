@@ -3,33 +3,45 @@ Accessibility Features
 
 Light/Dark Mode
 ------------
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+| 
+| 
+| 
+| IN PRODUCTION - Writer: Janet
+| 
+| 
+| 
+| 
 
 PreCog Reading Mode (Beta)
 ------------
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+| 
+| 
+| 
+| IN PRODUCTION - Writer: Janet
+| 
+| 
+| 
+|
 
 Adjusting Font Size
 ------------
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+| 
+| 
+| 
+| IN PRODUCTION - Writer: Janet
+| 
+| 
+| 
+|
 
 Animated GIF Motion Control
 ------------
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+| 
+| 
+| 
+| IN PRODUCTION - Writer: Janet
+| 
+| 
+| 
+|
 
