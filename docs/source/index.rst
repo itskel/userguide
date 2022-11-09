@@ -21,3 +21,4 @@ Contents
    posting-content
    browsing-and-curation
    pro-features
+   promoting-coso
