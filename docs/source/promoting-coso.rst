@@ -31,14 +31,13 @@ Dispelling Misinformation
 CoSo Media Assets
 ------------
 
-Logos & Icons
-^^^^^^^^^^^^
+**Logos & Icons**
+
 .. image:: img_graphics.jpg
 
 **Download Graphics (ZIP)**:  https://share.counter.social/s/76ccb4
 
-Social Media Banners + Avatars
-^^^^^^^^^^^^
+**Social Media Banners + Avatars**
 
 Have you joined us from another platform, but aren't quite sure how to tell your people where you've gone? If so, we have just the thing for you! 
 
