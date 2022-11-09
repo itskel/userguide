@@ -10,6 +10,7 @@ Counter.Social is accessible using all modern web browsers or via the official C
 .. image:: img_devicestatus.png
 
 | 
+|  
 Creating Your Account
 ------------
 
@@ -24,6 +25,7 @@ Following sign-up, you will receive an email from Counter.Social with instructio
 
 
 | 
+|  
 Setting Up Your Profile
 ------------
  
@@ -67,7 +69,9 @@ Avatar
 ^^^^^^^^^^^^^
 Your avatar is the photo or image that appears on top of your profile and next to your post. The current default is an egg.  Uncrack it now by uploading a PNG, GIF, or JPG image no larger than 2mb in size. Your image will be resized to 85x85 pixels. Square images are preferred.
 
+
 | 
+|  
 Configuring Your Preferences
 ------------
 After you have set up your personal profile, use the field below the profile image uploader to set up the following preferences:
@@ -99,4 +103,6 @@ If including links, a verification method is provided to be sure that the links 
 
 .. image:: img_verifiedlinks.jpg
 
+| 
+| 
 .. attention:: Need help? Write a post and include the #help hashtag for support from the community. 
