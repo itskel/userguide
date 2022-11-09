@@ -19,4 +19,4 @@ Contents
    transparency
    getting-started
    posting-content
-   browsing-curation
+   browsing-and-curation
