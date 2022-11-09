@@ -22,3 +22,5 @@ Contents
    browsing-and-curation
    pro-features
    promoting-coso
+   accessibility
+   troubleshooting-faqs
