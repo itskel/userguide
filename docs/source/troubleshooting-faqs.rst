@@ -1,6 +1,10 @@
 Troubleshooting & FAQs
 =====
 
+Last Updated 11/9/2022. 
+
+.. attention:: Need help on something not covered below? Write a post and include the #help hastag for support from the community. 
+
 **Is there a way to switch CounterSocial to a light background?**
 **A:** 
 
