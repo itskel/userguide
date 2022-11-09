@@ -20,3 +20,4 @@ Contents
    getting-started
    posting-content
    browsing-and-curation
+   pro-features
