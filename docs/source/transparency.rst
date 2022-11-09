@@ -1,6 +1,8 @@
 Transparency
 =====
 
+.. note:: Last Updated: November 9, 2022. 
+
 Who is Jester?
 ------------
 Th3J3st3r is a prolific hacktivist and the creator of Counter.Social. He is listed in TIME Magazine’s Most Influential People Online, and his laptop is exhibited in the International Spy Museum in Washington, DC. His alleged escapades were described in articles and programs by NBC, Homeland Security Today, Gizmodo, Newsweek, Tech Insider, and the Larry King Show. Some may have noticed his cameo role in the USA Network TV show, Mr. Robot.
