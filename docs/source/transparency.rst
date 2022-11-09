@@ -9,11 +9,15 @@ Th3J3st3r is a prolific hacktivist and the creator of Counter.Social. He is list
 
 Visit https://counter.social/whojay.html for more info. 
 
+| 
+| 
 The CounterSocial Team
 ------------
 
 CounterSocial does not have any excutives, board of directors, or employees and is operated and managed solely by Jester. The CoSo community self-moderates through a unique structure that surfaces troll, bot, and abuse sightings, escalates support issues, and empowers every user to contribute to the health and safety of the overall platform. 
 
+| 
+| 
 Funding Sources
 ----------------
 
@@ -21,7 +25,8 @@ Counter.Social’s funding is provided by Jester as the sole operator of the pla
 
 Visit https://counter.social/supportcoso.html to support. 
 
-
+| 
+| 
 System Performance & Metrics
 ----------------
 
@@ -29,13 +34,15 @@ Counter.Social (“CoSo”) developed several custom dashboards to provide admin
 
 Existing users can access this data anytime at https://netops.counter.social or by clicking the “Network Status” link in the Navigation column.
 
-
+| 
+| 
 Relationship to Mastodon
 ----------------
 
 Counter.Social is a hard fork of the Mastodon network under the Free Software Foundation (FSF) Affero General Public License (AGPL). At this time, we are an independent instance separated from the Mastodon federation. CoSo has its own Terms of Service and additional features installed on separate servers, to supplement Mastodon software with proprietary security and resources, for the health and safety of the community.
 
-
+| 
+| 
 License & Policies
 ----------------
 
@@ -45,3 +52,9 @@ License & Policies
 | DMCA Policy: https://counter.social/dmca.html
 | GDPR Policy: https://counter.social/gdpr.html
 | CCPA Policy: https://counter.social/ccpa.html
+
+
+| 
+| 
+
+.. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
