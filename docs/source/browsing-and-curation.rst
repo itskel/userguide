@@ -28,8 +28,7 @@ Notification Column + Settings
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
+
 
 
 How to Add or Remove Columns
@@ -42,15 +41,18 @@ How to Add or Remove Columns
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
-| NEEDS CONTENT
-| NEEDS CONTENT
 
+How to Follow Users
+------------
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
+| NEEDS CONTENT
 
 How to Create & Manage Lists
 ------------
 
-| NEEDS CONTENT
-| NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
@@ -61,8 +63,6 @@ How to Create & Manage Lists
 How Mute & Block Users
 ------------
 
-| NEEDS CONTENT
-| NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
 | NEEDS CONTENT
