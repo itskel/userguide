@@ -8,6 +8,8 @@ The Desktop Layout
 
 .. image:: img_destoplayout.jpg
 
+For an expanded, in-depth overview of the destop layout, visit CoSo user @MLClark's `article on OnlySk <https://onlysky.media/mclark/countersocial-isnt-the-new-twitter-its-something-way-better/>`_ 
+
 .. tip:: Visit your preferences to enable "Ostrich Mode" for a more minimal desktop layout. This mode will remove the "extras" including the news ticker, CoSoCom emergency radio scanner, and live news station feeds.
 
 The Navigation + View Column
