@@ -4,7 +4,7 @@ Promoting CoSo
 Welcoming New Users
 ------------
 
-If you are a new user, by the time you finish reading this, your notifications column may have already filling up with messages. No, these are not bots. These are existing members of the community making sure you feel welcome. This "welcome wagon" not only serves the purpose of onboarding new users and breaking the ice on making new friends, but also helps crowdsource the review of all new accounts for use of hate speech in usernames, profile photos, and imagery. 
+If you are a new user, by the time you finish reading this, your notifications column may have already filled up with messages. No, these are not bots. These are existing members of the community making sure you feel welcome. This "welcome wagon" not only serves the purpose of onboarding new users and breaking the ice on making new friends, but also helps crowdsource the review of all new accounts for use of hate speech in usernames, profile photos, and imagery. 
 
 While the custom has become a proud tradition and testiment to the Community's committment to fostering a healthier online space, keep in mind that new useres are just arriving an need time to acclimate. Keep it short, friendly, and *geniune*. 
 
@@ -16,7 +16,7 @@ While the custom has become a proud tradition and testiment to the Community's c
       | 
       | "Welcome. Visit @CoSoTips for the user guide and FAQs." 
 
-
+**1-year-old users helping 1-week-old users helping 1-day-old users helping 1-minute-old users… This is the CoSo Way!**
 
 
 Promoting Your Account on Other Sites
