@@ -4,8 +4,7 @@ Developer Resources
 Policy on BOTs & Automation
 ----------
 
-CounterSocial has a strict policy against bots or automation scripts designed to manipulate the platform, distribute spam, datamine, or manipulate followers. However, special projects that are designed to enhance a positive experience for the community are considered. 
-
+CounterSocial has a strict policy against bots or automation scripts designed to manipulate the platform, distribute spam, datamine, or manipulate followers. However, special projects that are designed to positively enhance the CoSo experierience are considered. 
 
 | 
 | 
