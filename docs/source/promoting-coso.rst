@@ -44,8 +44,8 @@ Have you joined us from another platform, but aren't quite sure how to tell your
 
 .. image:: img_socialmediabanner.jpg
 
-**Download Profile Picture**: https://share.counter.social/s/11ea40
-**Download Header**: https://share.counter.social/s/d582f0
+| **Download Profile Picture**: https://share.counter.social/s/11ea40
+| **Download Header**: https://share.counter.social/s/d582f0
 
 
 
