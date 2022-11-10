@@ -81,6 +81,7 @@ Configuring Your Preferences
 ------------
 After you have set up your personal profile, use the field below the profile image uploader to set up the following preferences:
 
+|
 Public Landing Page (PLP)
 ^^^^^^^^^^^^^
 CoSo is private by default. This means that your profile and posts are unavailable outside of Counter.Social and are not index by 3rd party search engines. 
@@ -89,16 +90,19 @@ A PRO account Upgrade will provide a public landing page that is sharable with p
 
 .. image:: img_plpenabled.jpg
 
+|
 Lock Account
 ^^^^^^^^^^^^^
 Check the box to make your profile private all CoSo Users except those you have accepted as friends. If this box is checked, you will need to manually approve all friend requests. Follow requests appear on your profile page. Click the 3 dots to the right of your Display Name for a flyout menu and choose Follow Requests to see who is asking. You can click through to their profiles before choosing to accept or reject the request. No harm no foul, follower counts are not worth a hill of beans here.
 
 
+|
 Directory Listing (Coming Soon)
 ^^^^^^^^^^^^^
 While the Directory is currently in development, select this box to be included in a searchable index of Counter.Social users. If you have included hashtags in your bio, your profile will be listed in each respective hashtag group.
 
 
+|
 Profile Metadata
 ^^^^^^^^^^^^^
 CoSo allows you to display up to 4 items in a table at the top of your bio. You can use these fields to display your location, pronouns, website/social links, or labels.
