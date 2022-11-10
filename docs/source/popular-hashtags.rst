@@ -32,7 +32,7 @@ While the CoSo Direcgtory is in development, here are a list of popular hashtags
 
 **Art & Entertainment**
 
- +------------------+-----------------+----------------+
++------------------+-----------------+----------------+
 | Art              | CoSoMusic       | CoSoBooks      |
 +==================+=================+================+
 | CoSoArt          | Music           | CoSoBookClub   |
@@ -54,3 +54,20 @@ While the CoSo Direcgtory is in development, here are a list of popular hashtags
 | CoSoHorror       | RPG             |                |
 +------------------+-----------------+----------------+
 
+**Science & Academia**
+
++----------------+-----------------+-----------------------+
+| CoSoScience    | Physics         | CoSoPhilosophy        |
++================+=================+=======================+
+| ScienceNews    | History         | CoSoFuture            |
++----------------+-----------------+-----------------------+
+| SpaceNews      | OnThisDay       | FutureNews            |
++----------------+-----------------+-----------------------+
+| SpaceWeather   | OpenCarryBooks  | ClimateChange         |
++----------------+-----------------+-----------------------+
+| WeatherAlert   | Genealogy       | CoSoEnvironment       |
++----------------+-----------------+-----------------------+
+| CoSoWeather    | Botany          | TeacherAppreciation   |
++----------------+-----------------+-----------------------+
+| HurricaneTips  | Quotes          | TeachersOfCoSo        |
++----------------+-----------------+-----------------------+
