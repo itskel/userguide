@@ -26,7 +26,7 @@ When you click on any profile name, hashtag, or post, contents will automaticall
 Notitifications Column & Settings
 ------------
 
-The Notification column is identified with a bell icon and the word *Notifications*. Click on the mixer icon at the top right of the column to open it's settings. The header includes some icons for filtering the list of posts that appear in the column. 
+The Notification column is identified with a bell icon and the word *Notifications*. To configure your notifcation settings settings, click the mixer icon in the top right corner of the column. From here, you can set options for your *Quick Filter* bar, turn on/off prompts for desktop notifications if your browser offers this function. This feature is disabled on mobile devices by default. The header includes some icons for filtering the list of posts that appear in the column. 
 
 .. image:: img_noticolumn.jpg
 
@@ -40,14 +40,8 @@ The Notification column is identified with a bell icon and the word *Notificatio
 
 **Follows** - Click the person to see a list of all the people who are following you. 
 
-| 
-To adjust your Notification Settings, click the Mixer icon in the top right corner of the column to open or close the list of options for customizing your notifcations. You might want to experiment to see what gives you the best experience; it will be different for each user. 
 
-**Quick Filter Bar** - this displays the icons described above, or not if you prefer.
 
-**Push Notifications** - CounterSocial integrates with the internal notification systems of most browsers. If your desktop browser offers this function, you will be  prompted to accept or decline this feature at start-up. This feature is disabled on mobile devices by default. 
-
-**New Followers & Favorites** - Display options that react to others choosing to follow you. 
 
 | 
 | 
