@@ -47,7 +47,7 @@ The header also includes some icons for filtering the list of notifications that
 
 | 
 | 
-How to Add or Remove Columns
+Add or Remove Columns
 ------------
 
 .. image:: img_columnsettings.jpg
@@ -61,7 +61,7 @@ How to Add or Remove Columns
 | 
 | 
 
-How to Filter Content
+Content Filters
 ------------
 | 
 | 
@@ -73,7 +73,7 @@ How to Filter Content
 | 
 | 
 
-How to Follow Users
+Following Users
 ------------
 | 
 | 
@@ -85,7 +85,7 @@ How to Follow Users
 | 
 | 
 
-How to Create & Manage Lists
+Lists
 ------------
 | 
 | 
@@ -97,7 +97,7 @@ How to Create & Manage Lists
 | 
 | 
 
-How Mute & Block Users
+Mute & Block Users
 ------------
 | 
 | 
@@ -109,15 +109,5 @@ How Mute & Block Users
 | 
 | 
 
-How to Mute Hashtags & Keywords (New)
-------------
-| 
-| 
-| 
-| 
-| IN PRODUCTION - Writer: Bluesbaby/Phase
-| 
-| 
-| 
-| 
+
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
