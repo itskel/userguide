@@ -5,7 +5,7 @@ Last Updated: November 10, 2022
 
 While the CoSo Direcgtory is in development, here are a list of popular hashtags used on CounterSocial. Why are hashtags so important here? Mostly because there's no algorithm manipulating your feeds at CoSo. Hashtags allow those with similar interests to find your stuff, but they're also a considerate way to help others filter it out. 
 
-`Click here <https://coso-userguide.readthedocs.io/en/latest/browsing-and-curation.html#how-to-add-or-remove-columns>`_ to learn more about pinning your favorite hashtags in a seperate column. 
+Related: `How To Pin Hashtags To a Column <https://coso-userguide.readthedocs.io/en/latest/browsing-and-curation.html#how-to-add-or-remove-columns>`_ | `How To Filter Hashtags From Your Feeds <https://coso-userguide.readthedocs.io/en/latest/browsing-and-curation.html#how-to-filter-content>`_ 
 
 **News & Politics**
 
