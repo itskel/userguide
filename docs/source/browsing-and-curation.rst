@@ -30,15 +30,15 @@ The Notification column is identified with a bell icon and the word *Notificatio
 
 .. image:: img_noticolumn.jpg
 
-  **All** - this is the default view and this shows every one of the new messages to your @handle, replies to, favorites and boosts of your posts.
+**All** - this is the default view and this shows every one of the new messages to your @handle, replies to, favorites and boosts of your posts.
 
-  **Mentions** - The “at symbol” shows posts wherein your @handle was specifically included. This could be replies or new messages calling for your attention.
+**Mentions** - The “at symbol” shows posts wherein your @handle was specifically included. This could be replies or new messages calling for your attention.
 
-  **Boosts** - The double headed square arrow BOOSTS  an existing post. This mimics the other platforms’  Retweet or Share buttons. Like the star, no counting takes place. 
+**Boosts** - The double headed square arrow BOOSTS  an existing post. This mimics the other platforms’  Retweet or Share buttons. Like the star, no counting takes place. 
 
-  **Poll Reactions** - Polls in which you voted, as well as new polls started by your friends will show up here.
+**Poll Reactions** - Polls in which you voted, as well as new polls started by your friends will show up here.
 
-  **Follows** - Click the person to see a list of all the people who are following you. 
+**Follows** - Click the person to see a list of all the people who are following you. 
 
 
 Notification Settings
