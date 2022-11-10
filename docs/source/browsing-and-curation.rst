@@ -23,7 +23,7 @@ When you click on any profile name, hashtag, or post, contents will automaticall
 
 | 
 | 
-Notitifications
+Notifications
 ------------
 
 The Notification column is identified with a bell icon and the word *Notifications*. To configure your notifcation settings settings, click the mixer icon in the top right corner of the column. From here, you can set options for your *Quick Filter* bar, turn on/off prompts for desktop notifications if your browser offers this function. This feature is disabled on mobile devices by default. 
