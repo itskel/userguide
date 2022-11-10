@@ -1,7 +1,7 @@
 Browsing & Curation
 =====
 
-.. note:: Last Updated: November 9, 2022. 
+Last Updated: November 9, 2022. 
 
 The Desktop Layout
 ------------
@@ -23,17 +23,32 @@ When you click on any profile name, hashtag, or post, contents will automaticall
 
 | 
 | 
-Notification Column + Settings
+Notifications
 ------------
+
+Notification Filters
+^^^^^^^^^^
+
+The Notification column is identified with a bell icon and the word *Notifications*. Click on the mixer icon at the top right of the column to open it's settings. The header includes some icons for filtering the list of posts that appear in the column. 
+
+.. image:: img_notificationfilters.jpg
+
+ALL - this is the default view and this shows every one of the new messages to your @handle, replies to, favorites and boosts of your posts.
+
+MENTIONS - The “at symbol” shows posts wherein your @handle was specifically included. This could be replies or new messages calling for your attention.
+
+BOOSTS - The double headed square arrow BOOSTS  an existing post. This mimics the other platforms’  Retweet or Share buttons. Like the star, no counting takes place. 
+
+POLLS - Polls in which you voted, as well as new polls started by your friends will show up here.
+
+FOLLOWS - Click the person to see a list of all the people who are following you. 
+
 | 
-| 
-| 
-| 
-| IN PRODUCTION - Writer: AmyFB
-| 
-| 
-| 
-| 
+Notification Settings
+^^^^^^^^^^
+
+Click the Mixer icon in the top right corner of the column to open or close the list of options for customizing your notifcations. You might want to experiment to see what gives you the best experience; it will be different for each user. 
+
 
 | 
 | 
