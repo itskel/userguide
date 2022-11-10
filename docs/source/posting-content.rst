@@ -50,7 +50,7 @@ Media File Types
 | Audio   | MP3, OGG, WAV, FLAC, OPUS, AAC, M4A, 3GP  | 40MB Max      |
 +---------+-------------------------------------------+---------------+
 
-.. note:: CounterSocial automatically scrubs all meta-data from your media files including the date, location, and camera settings. This includes photo orientation. If you upload an image and it is upside down or on its side, delete it from your draft (or delete & redraft the post if already launched), then make an inconsequential edit to your original file, save it, and reupload.  
+.. note:: CounterSocial automatically scrubs all meta-data from your media files including photo orientation. If you upload an image and it is upside down, used the delete & redraft option to pull the post down. Make an inconsequential edit to your original image file, save it, and reupload to correct the issue.  
 
 | 
 | 
