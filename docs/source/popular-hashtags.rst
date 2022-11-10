@@ -2,215 +2,84 @@ Popular Hashtags
 =====
 While the CoSo Direcgtory is in development, here are a list of popular hashtags used on CounterSocial. Why are hashtags so important here? Mostly because there's no algorithm manipulating your feeds at CoSo. Hashtags allow those with similar interests to find your stuff, but they're also a considerate way to help others filter it out. 
 
-(A-Z)
-
-| AnimalsUpForAdoption
-| Art
-| ArtistsOnCoSo
-| AskVMC
-| BikersOfCoSo
-| BirdsOfCoSo
-| BlackCoSo
-| BlackLivesMatter
-| CaffeineClub
-| Cancer
-| CatsOfCoso
-| Chiari
-| Christmas
-| Chronicillness
-| CoMingle
-| ConstructiveDialogue
-| CoSo
-| CoSo420
-| CoSoAA
-| CoSoAccord
-| CoSoAfterDark
-| CoSoAnniversary
-| CoSoArt
-| CoSoArtists
-| CoSoBadMovies
-| CoSoBaseball
-| CoSoBassists
-| CoSoBingo
-| CoSoBirds
-| CoSoBirthday
-| CoSoBookClub
-| CoSoBooks
-| CoSoBreaking
-| CoSoBuddhists
-| CoSoCanucks
-| CosoCars
-| CoSoCasting
-| CoSoCaturday
-| CoSoCBD
-| CoSoClassical
-| CoSoCocktails
-| CoSoConfessions
-| CoSoFilm
-| CoSoFirstPeoples
-| CoSoFood
-| CoSoFundraiser
-| CoSoFundraising
-| CoSoFuture
-| CoSoGames
-| CoSoGaming
-| CoSoGardening
-| CoSoGardens
-| CoSoGear
-| CoSoGoodDay
-| CoSoGratitude
-| CoSoHaiku
-| CoSoHockey
-| CoSoHorror
-| CoSoHumor
-| CoSoIndependents
-| CoSoIntroductions
-| CoSoJobs
-| CoSoJokes
-| CoSoLiberals
-| CoSoLove
-| CoSoMarketplace
-| CoSoMayday
-| CoSoMedical
-| CoSoConservatives
-| CoSoCookbook
-| CoSoCookz
-| CoSoCooks
-| CoSoCovid
-| CoSoCuties
-| CoSoDIY
-| CoSoDogs
-| CoSoDrinks
-| CoSoEngagements
-| CoSoEnvironment
-| CoSoEyeCandy
-| CoSoFam
-| CoSoMeetUp
-| CoSoMemes
-| CoSoMemories
-| CoSoMoto
-| CoSoMusic
-| CoSoMusicians
-| CoSoMutualAid
-| CoSoNauts
-| CoSoNerds
-| CoSoOrchids
-| CoSoPagans
-| CoSoParty
-| CoSoPhilosophy
-| CoSoPhotography
-| CoSoPoetry
-| CoSoPoliticalTheory
-| CoSoPub
-| CoSoPuck
-| CoSoRocks
-| CoSoScience
-| CoSoSec
-| CoSoSecretSanta
-| CoSoSolutions
-| CoSoSports
-| CoSoTech
-| CoSoTips
-| CoSoTokers
-| CoSoTrash
-| CoSoVideo
-| CoSoWaterWars
-| CoSoWeather
-| CoSoWeddings
-| CoSoWriters
-| Covid19
-| Creators
-| CS
-| CSAfterDark
-| CSFirstImpressions
-| CSGN
-| CSI
-| CSICastOfCharacters
-| DadJokes
-| Delta
-| DigitalArtist
-| DogsOfCoSo
-| Dragon
-| EarwormThursday
-| EctoParasites
-| Ethics
-| EuroVision
-| FineArt
-| FishOfCoSo
-| Fitness
-| FoodPorn
-| GameNight
-| Genealogy 
-| GippyFanClub
-| GoatsOfCoSo
-| GoHawks
-| GoodNews
-| Hanukkah 
-| HappyHour
-| HelloCoSo
-| Homesteading
-| HorsesOfCoSo
-| HotCIAChicksOfCoSo
-| HurricaneTips
-| IndependentsOfCoSo
-| InfoSec
-| InfoSecFail
-| Introductions
-| Introverts 
-| JustOneCoffee
-| KeepCoSoWeird
-| KeepingOn
-| KinkyCoSo
-| ManGlitter
-| MeetTheNauts
-| Mental
-| Meter
-| MicroFiction 
-| MissionPatreon
-| MissionPro
-| MugsOfCoSo
-| NeuroDiversity
-| News
-| OnAHappierNote
-| OnDemandRequest
-| OneHealth
-| OnThisDay
-| OpenCarryBooks
-| Ouch
-| Parenting
-| Patreon
-| PayItForward
-| PetsOfCoSo
-| Photographers
-| Photography
-| PipePoem
-| PlayTheBlues
-| Political
-| PolyAmCoSo
-| PostCardsToVoters
-| PrayerRequest
-| QueerCoSo
-| Quotes
-| RoadTrip
-| SixWordAnswer
-| SixWordStory
-| SnakesOfCoSo
-| Spooktober
-| Spoonie
-| StarkInnovations
-| SuicidePrevention
-| Surfing
-| TBI
-| TeacherAppreciation
-| TeachersOfCoSo
-| TOCR
-| TransgenderCoSo
-| TravelPorn
-| TrollSongs
-| VictoryGarden 
-| Ukraine
-| WorldChildlessWeek
-| Writing
-| WritersofCoSo
-| YidsofCoSo
-| Zentangle
++-----------------------+----------------------+---------------------------+
+| News & Politics       | Art & Entertainment  | Creators                  |
++=======================+======================+===========================+
+| CoSoIndependents      | Art                  | CoSoWriters               |
+| CoSoLiberals          | Comics               | ArtistsOnCoSo             |
+| Ukraine               | CoSoArt              | CoSoArtists               |
+| News                  | CoSoBadMovies        | CoSoCasting               |
+| BreakingNews          | CoSoBassists         | CoSoJobs                  |
+| ConstructiveDialogue  | CoSoBookClub         | CoSoMusicians             |
+| CoSoGoodDay           | CoSoBooks            | Creators                  |
+| GoodNews              | CoSoClassical        | DigitalArtist             |
+| CoSoConservatives     | CoSoComics           | Photographers             |
+| Political             | CoSoFilm             | WritersofCoSo             |
+| CoSoPoliticalTheory   | CoSoGames            | Writing                   |
+| PostCardsToVoters     | CoSoGaming           | WritingCommunity          |
+| IndependentsOfCoSo    | CoSoHaiku            |                           |
+| CoSoCanucks           | CoSoHorror           | Home & Lifestyle          |
+|                       | CoSoMusic            | Parenting                 |
+| Science & Acadamia    | CoSoPhotography      | CoSoCuties                |
+| CoSoWeather           | CoSoPoetry           | CoSoDIY                   |
+| Genealogy             | CoSoVideo            | CoSoEngagements           |
+| botany                | CSI                  | CoSoGardening             |
+| CoSoEnvironment       | CSICastOfCharacters  | Homesteading              |
+| CoSoOrchids           | EarwormThursday      | CoSoGardens               |
+| CoSoSec               | EuroVision           | CoSoParty                 |
+| CoSoPhilosophy        | FineArt              |                           |
+| CoSoScience           | MicroFiction         | Food, Drink, & Livations  |
+| history               | Music                | CoSoFood                  |
+| HurricaneTips         | NewMusicFriday       | CoSoPub                   |
+| OnThisDay             | Photography          | CaffeineClub              |
+| OpenCarryBooks        | PipePoem             | CoSo420                   |
+| Quotes                | PlayTheBlues         | CoSoCocktails             |
+| sciencenews           | SixWordAnswer        | CoSoDrinks                |
+| spacenews             | SixWordStory         | CoSoCookbook              |
+| TeacherAppreciation   | StreetArt            | CoSoCooks                 |
+| TeachersOfCoSo        |                      | CoSoTokers                |
+| CoSoFuture            | Sports               | FoodPorn                  |
+|                       | CoSoBaseball         | HappyHour                 |
+| Tech & Security       | CoSoHockey           | MugsOfCoSo                |
+| cososec               | CoSoSports           | JustOneCoffee             |
+| CoSoTech              | CoSoPuck             |                           |
+| InfoSec               | GoHawks              | Travel & Leisure          |
+| InfoSecFail           | GameNight            | RoadTrip                  |
+| OSINT                 |                      | CosoCars                  |
+| RUMINT                | Humor                | TravelPorn                |
+| technews              | CoSoHumor            |                           |
+| CoSoTips              | CoSoMemes            | Pets & Animals            |
+|                       | CoSoJokes            | PetAdoption               |
+| Health & Wellness     | DadJokes             | PetsOfCoSo                |
+| Covid19               |                      | BirdsOfCoSo               |
+| NeuroDiversity        | CoSo Connection      | CatsOfCoso                |
+| Cancer                | CoMingle             | CoSoBirds                 |
+| Chronicillness        | CoSoAfterDark        | DogsOfCoSo                |
+| CoSoAA                | CoSoEyeCandy         | CoSoCaturday              |
+| CoSoCovid             | CoSoFam              | CoSoDogs                  |
+| CoSoCBD               | CoSoLove             | SnakesOfCoSo              |
+| CoSoMedical           | CoSoMeetUp           | GoatsOfCoSo               |
+| KeepingOn             | CoSoNerds            | HorsesOfCoSo              |
+| Fitness               | CSAfterDark          | FishOfCoSo                |
+| SuicidePrevention     | CSFirstImpressions   |                           |
+|                       | Introductions        | Events + Holidays         |
+| Religion & Culture    | Introverts           | CoSoWeddings              |
+| CoSoBuddhists         | KeepCoSoWeird        | CoSoSecretSanta           |
+| CoSoConfessions       | KinkyCoSo            | CoSoAnniversary           |
+| CoSoFirstPeoples      | ManGlitter           | CoSoBingo                 |
+| CoSoGratitude         | MeetTheNauts         | CoSoBirthday              |
+| CoSoMemories          | PolyAmCoSo           | CoSoIntroductions         |
+| CoSoPagans            | QueerCoSo            | Spooktober                |
+| CoSoRocks             | TransgenderCoSo      | Christmas                 |
+| PrayerRequest         |                      | Hanukkah                  |
+| YidsofCoSo            | Fundraising          |                           |
+|                       | CoSoFundraiser       |                           |
+| Culture & Activism    | CoSoFundraising      |                           |
+| CSGN                  | CoSoMarketplace      |                           |
+| AskVMC                | MissionPatreon       |                           |
+| BikersOfCoSo          | MissionPro           |                           |
+| BlackCoSo             | PayItForward         |                           |
+| BlackLivesMatter      | CoSoMayday           |                           |
+|                       | CoSoMutualAid        |                           |
+|                       | CoSoSolutions        |                           |
++-----------------------+----------------------+---------------------------+
