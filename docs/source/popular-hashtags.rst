@@ -104,13 +104,7 @@ While the CoSo Direcgtory is in development, here are a list of popular hashtags
 | CoSoCovid    | CoSoAA          | CoSoGratitude       |
 +--------------+-----------------+---------------------+
 
-**Religion, Communities & Culture**
 
-+-------------------+----------------+--------------+
-| CoSoBuddhists     | CoSoRocks      | YidsofCoSo   |
-+===================+================+==============+
-| CoSoFirstPeoples  | PrayerRequest  | CoSoPagans   |
-+-------------------+----------------+--------------+
 
 
 
