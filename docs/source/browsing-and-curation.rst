@@ -36,6 +36,8 @@ The header also includes some icons for filtering the list of notifications that
 
 **Mentions** - The “at symbol” shows posts wherein your @handle was specifically included. This could be replies or new messages calling for your attention.
 
+**Favorites** - The star is for the posts that others (or you) marked as a favorite. It is similar to the Like button seen on other platforms, however there is no counting of the number of times a post has been marked as a favorite. This is not a competition sport.
+
 **Boosts** - The double headed square arrow BOOSTS  an existing post. This mimics the other platforms’  Retweet or Share buttons. Like the star, no counting takes place. 
 
 **Poll Reactions** - Polls in which you voted, as well as new polls started by your friends will show up here.
