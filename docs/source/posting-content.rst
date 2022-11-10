@@ -1,7 +1,7 @@
 Posting Content
 =====
 
-.. note:: Last Updated: November 9, 2022. 
+Last Updated: November 10, 2022. 
 
 The Post Box
 ------------
@@ -38,11 +38,17 @@ Click on the camera icon to attach photos, animated GIFs, or videos to your post
 Media File Types
 ^^^^^^^^^^^^^
 
-* Images - PNG + JPG images up to 8mb in size. Up to 4 images per post. The post will display a 16:9 preview with the full version opening upon click.
-* Animated GIFs - up to 8mb in size. GIFs render as MP4 videos and can also be uploaded 4 at a time, but not in combination with other image formats.
-* Videos - MP4, M4V, MOV videos up to 40mb in size and no longer than 1 min in length. Video will be transcoded to H.264 MP4 files upon posting.
-
 .. image:: img_mediasizes.jpg
+
++---------+-------------------------------------------+---------------+
+| Type    | Files Accepted                            | Max Size      |
++=========+===========================================+===============+
+| Images  | PNG, JPG, GIF                             | 8mb           |
++---------+-------------------------------------------+---------------+
+| Video   | MP4, M4V, MOV, WEBM                       | <1min; 40mb   |
++---------+-------------------------------------------+---------------+
+| Audio   | MP3, OGG, WAV, FLAC, OPUS, AAC, M4A, 3GP  | 40MB Max      |
++---------+-------------------------------------------+---------------+
 
 .. note:: CounterSocial automatically scrubs all meta-data from your media files including the date, location, and camera settings. This includes photo orientation. If you upload an image and it is upside down or on its side, delete it from your draft (or delete & redraft the post if already launched), then make an inconsequential edit to your original file, save it, and reupload.  
 
