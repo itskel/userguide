@@ -71,3 +71,49 @@ While the CoSo Direcgtory is in development, here are a list of popular hashtags
 +----------------+-----------------+-----------------------+
 | HurricaneTips  | Quotes          | TeachersOfCoSo        |
 +----------------+-----------------+-----------------------+
+
+**Technology & Security**
+
++--------------+-----------+---------+
+| CoSoSec      | TechNews  | OSINT   |
++==============+===========+=========+
+| InfoSec      | CoSoTech  | RUMINT  |
++--------------+-----------+---------+
+| InfoSecFail  | IoT       | NatSec  |
++--------------+-----------+---------+
+| Programming  | Privacy   | Breach  |
++--------------+-----------+---------+
+
+**Sports**
+
++-------------+---------------+------------+
+| CoSoSports  | CoSoBaseball  | CoSoPuck   |
++=============+===============+============+
+| GameNight   | CoSoHockey    | GoHawks    |
++-------------+---------------+------------+
+
+**Health & Wellness**
+
++--------------+-----------------+---------------------+
+| CoSoMedical  | Chronicillness  | CoSoCBD             |
++==============+=================+=====================+
+| Fitness      | FuckCancer      | KeepingOn           |
++--------------+-----------------+---------------------+
+| Covid19      | NeuroDiversity  | SuicidePrevention   |
++--------------+-----------------+---------------------+
+| CoSoCovid    | CoSoAA          | CoSoGratitude       |
++--------------+-----------------+---------------------+
+
+**Religion, Communities & Culture**
+
++-------------------+----------------+--------------+
+| CoSoBuddhists     | CoSoRocks      | YidsofCoSo   |
++===================+================+==============+
+| CoSoFirstPeoples  | PrayerRequest  | CoSoPagans   |
++-------------------+----------------+--------------+
+
+
+
+
+
+
