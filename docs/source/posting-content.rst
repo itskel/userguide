@@ -52,7 +52,9 @@ Editing Media
 ^^^^^^^^^^^^^
 Once attached, hover over the image thumbnail and click the “Change Preview” link to adjust the image preview and add a text description for the visually impaired. This description appears for users accessing Counter.Social via a screen reader or other similar technology.
 
-.. warning:: If your image, GIF, or video is NSWF, contains mature, adult or graphic content, or may negatively impact those with PTSD or photosensitivity issues, please click the eye icon to mark your media as sensitive, and/or add a content warning to your post. Be advised, CounterSocial is committed to providing NO SAFE HAVEN for Child Sex Abuse Material. All uploaded images are hashed and compared against NCMEC databases of known CSAM hashes at our infrastructure edge. 
+If your image, GIF, or video is NSWF, contains mature, adult or graphic content, or may negatively impact those with PTSD or photosensitivity issues, please click the eye icon to mark your media as sensitive, and/or add a content warning to your post. 
+
+.. warning:: CounterSocial is committed to providing NO SAFE HAVEN for Child Sex Abuse Material. All uploaded images are hashed and compared against NCMEC databases of known CSAM hashes at our infrastructure edge. 
 
 | 
 | 
