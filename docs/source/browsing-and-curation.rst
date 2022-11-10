@@ -51,7 +51,7 @@ How to Add or Remove Columns
 | 
 | 
 
-How to Filter Content (New)
+How to Filter Content
 ------------
 | 
 | 
