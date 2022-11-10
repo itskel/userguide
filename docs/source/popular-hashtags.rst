@@ -104,6 +104,100 @@ While the CoSo Direcgtory is in development, here are a list of popular hashtags
 | CoSoCovid    | CoSoAA          | CoSoGratitude       |
 +--------------+-----------------+---------------------+
 
+**Home & Lifestyle**
+
++------------+----------------+---------------+
+| Parenting  | Gardening      | CoSoGardens   |
++============+================+===============+
+| CoSoCuties | CoSoGardening  | CoSoOrchids   |
++------------+----------------+---------------+
+| CoSoDIY    | Homesteading   |               |
++------------+----------------+---------------+
+
+**Food, Drink & Livations**
+
++---------------+----------------+----------------+
+| CoSoFood      | CoSoPub        | CaffeineClub   |
++===============+================+================+
+| CoSoCookbook  | CoSoCocktails  | MugsOfCoSo     |
++---------------+----------------+----------------+
+| FoodPorn      | CoSoDrinks     | CoSoTokers     |
++---------------+----------------+----------------+
+| CoSoCooks     | HappyHour      | CoSo420        |
++---------------+----------------+----------------+
+
+**Humor**
+
++------------+------------+-------------+
+| CoSoHumor  | CoSoMemes  | CoSoJokes   |
++============+============+=============+
+| DadJokes   | memes      | jokes       |
++------------+------------+-------------+
+
+**Pets & Animals**
+
++---------------+-----------------------+------------------------+
+| PetsOfCoSo    | AnimalsUpForAdoption  | nudibranch / nudipix   |
++===============+=======================+========================+
+| DogsOfCoSo    | PetAdoption           | FishOfCoSo             |
++---------------+-----------------------+------------------------+
+| CoSoDogs      | BirdsOfCoSo           | GoatsOfCoSo            |
++---------------+-----------------------+------------------------+
+| CatsOfCoso    | CoSoBirds             | HorsesOfCoSo           |
++---------------+-----------------------+------------------------+
+| CoSoCaturday  | birbs                 | SnakesOfCoSo           |
++---------------+-----------------------+------------------------+
+
+**Travel & Leisure**
+
++-------------+-----------+----------------+
+| RoadTrip    | CosoCars  | BikersOfCoSo   |
++=============+===========+================+
+| TravelPorn  |           |                |
++-------------+-----------+----------------+
+
+**CoSo Connection**
+
++----------------+---------------------+-----------------+
+| Introductions  | PolyAmCoSo          | CoSoAfterDark   |
++================+=====================+=================+
+| MeetTheNauts   | QueerCoSo           | CoSoEyeCandy    |
++----------------+---------------------+-----------------+
+| KeepCoSoWeird  | TransgenderCoSo     | Introverts      |
++----------------+---------------------+-----------------+
+| CoSoFam        | CoSoConfessions     | KinkyCoSo       |
++----------------+---------------------+-----------------+
+| CoSoLove       | AskVMC              | ManGlitter      |
++----------------+---------------------+-----------------+
+| CoSoMeetUp     | CoSoNerds           | CoMingle        |
++----------------+---------------------+-----------------+
+| TwitterRefugee | CSFirstImpressions  |                 |
++----------------+---------------------+-----------------+
+
+**Holidays & Occassions**
+
++------------------+------------------+-------------------+
+| CoSoParty        | Spooktober       | CoSoWeddings      |
++==================+==================+===================+
+| CoSoBirthday     | Christmas        | CoSoEngagements   |
++------------------+------------------+-------------------+
+| CoSoAnniversary  | CoSoSecretSanta  | CoSoBingo         |
++------------------+------------------+-------------------+
+| CoSoMemories     | Hanukkah         |                   |
++------------------+------------------+-------------------+
+
+**Fundraising**
+
++------------------+-----------------+------------------+
+| CoSoMarketplace  | CoSoFundraiser  | PayItForward     |
++==================+=================+==================+
+| CoSoMutualAid    | CoSoFundraising | CoSoMayday       |
++------------------+-----------------+------------------+
+| CoSoSolutions    | MissionPro      | MissionPatreon   |
++------------------+-----------------+------------------+
+
+
+
 
 
 
