@@ -35,6 +35,8 @@ You can find all preferences and settings by clicking on the “Edit Profile” 
 
 .. note:: Remember to scroll to the bottom of the page and hit the SAVE button after making any changes.
 
+
+|
 Display Name
 ^^^^^^^^^^^^^
 While your @handle is fixed and unchangeable, you may update your Display Name at any time. The character limit is 24. In the example below, JΞSŦΞR ✪ ΔCŦUΔL³³°¹ is the Display Name and @th3j35t3r is their handle or "screen name." 
@@ -43,20 +45,22 @@ While your @handle is fixed and unchangeable, you may update your Display Name a
 
 Other than badges and a blue check to denote PRO members, CounterSocial does not grant special status or symbols to individual accounts. Users are free to include symbols in their Display Names and the Emoji library is available to all users.  Country flags, checks marks (of any color!;-)) or others as your imagination dictates. 
 
-Here’s how: 
+ **How to Add an Emjoi to Your Display Name**
 
-#. In the text area, click on Insert Emoji (symbol) to reveal the list of system and custom emojis.
-#. Scroll through them and find something snazzy.
-#. Tap to enter one (or more) into the text area.
-#. Copy the symbol(s) and go immediately to Edit Profile.
-#. Click “yes” if a pop up asks if you want to Leave site? and  continue to the Edit profile area.
-#. Paste the symbol(s) in the Display Name and/or Bio fields.
-#. Scroll down and click Save Changes before returning to Counter.Social.
+ #. In the text area, click on Insert Emoji (symbol) to reveal the list of system and custom emojis.
+ #. Scroll through them and find something snazzy.
+ #. Tap to enter one (or more) into the text area.
+ #. Copy the symbol(s) and go immediately to Edit Profile.
+ #. Click “yes” if a pop up asks if you want to Leave site? and  continue to the Edit profile area.
+ #. Paste the symbol(s) in the Display Name and/or Bio fields.
+ #. Scroll down and click Save Changes before returning to Counter.Social.
 
+|
 Bio
 ^^^^^^^^^^^^^
 Write a short description of yourself to display on top of your profile page. The character limit is 500. Feel free to include hashtags that define your professions, interests, or group memberships so others can find you when searched.
 
+|
 Header
 ^^^^^^^^^^^^^
 Your header image is the banner that appears on top of your profile page when your screen name or display name are clicked. Please upload a PNG, GIF, or JPG no larger than 2mb. This image will be rescaled to 1500x500px.
@@ -65,6 +69,7 @@ These examples show profiles with and without a header:
 
 .. image:: img_avatarheader.jpg
 
+|
 Avatar
 ^^^^^^^^^^^^^
 Your avatar is the photo or image that appears on top of your profile and next to your post. The current default is an egg.  Uncrack it now by uploading a PNG, GIF, or JPG image no larger than 2mb in size. Your image will be resized to 85x85 pixels. Square images are preferred.
