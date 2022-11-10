@@ -40,13 +40,14 @@ The Notification column is identified with a bell icon and the word *Notificatio
 
   FOLLOWS - Click the person to see a list of all the people who are following you. 
 
+
 **Notification Settings**
 
 Click the Mixer icon in the top right corner of the column to open or close the list of options for customizing your notifcations. You might want to experiment to see what gives you the best experience; it will be different for each user. 
 
   QUICK FILTER BAR - this displays the icons described above, or not if you prefer.
 
-  PUSH NOTIFICATIONS - CounterSocial integrates with the internal notification systems of most browsers. If your desktop browser offers this function, you will be  prompted to accept or decline this feature at start-up. This feature is disabled on Mobile by default. 
+  PUSH NOTIFICATIONS - CounterSocial integrates with the internal notification systems of most browsers. If your desktop browser offers this function, you will be  prompted to accept or decline this feature at start-up. This feature is disabled on mobile devices by default. 
 
   NEW FOLLOWERS + FAVORITES - Display options that react to others choosing to follow you. 
 
