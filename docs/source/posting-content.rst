@@ -42,7 +42,9 @@ Media File Types
 * Animated GIFs - up to 8mb in size. GIFs render as MP4 videos and can also be uploaded 4 at a time, but not in combination with other image formats.
 * Videos - MP4, M4V, MOV videos up to 40mb in size and no longer than 1 min in length. Video will be transcoded to H.264 MP4 files upon posting.
 
-.. tip:: CounterSocial automatically scrubs all meta-data from your media files including the date, location, and camera settings. This includes photo orientation. If you upload an image and it is upside down or on its side, delete it from your draft (or delete & redraft the post if already launched), then make an inconsequential edit to your original file, save it, and reupload.  
+.. image:: img_mediasizes.jpg
+
+.. note:: CounterSocial automatically scrubs all meta-data from your media files including the date, location, and camera settings. This includes photo orientation. If you upload an image and it is upside down or on its side, delete it from your draft (or delete & redraft the post if already launched), then make an inconsequential edit to your original file, save it, and reupload.  
 
 | 
 | 
