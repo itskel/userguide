@@ -40,7 +40,7 @@ Visit https://counter.social/supportcoso.html to support.
 System Performance & Metrics
 ----------------
 
-.. image:: img_mastodonfork.jpg
+.. image:: img_netops.jpg
 
 Counter.Social (“CoSo”) developed several custom dashboards to provide administrative transparency and offer an at-a-glance view of the System Performance, User Trends, and New Member evolution. CoSo constantly monitors the internet ecosystem to mitigate threats to our community. Jester has developed real-time tools to show us the threats CoSo is up against every second of every day. CoSo Realtime Threat Dashboard shows who is trying to hack and/or infiltrate CoSo, by country of origin, hostname, and username. You can read more about the strategy at https://counter.social/faqs.html
 
