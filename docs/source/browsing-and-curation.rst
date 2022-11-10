@@ -30,20 +30,18 @@ The Notification column is identified with a bell icon and the word *Notificatio
 
 .. image:: img_noticolumn.jpg
 
-**All** - this is the default view and this shows every one of the new messages to your @handle, replies to, favorites and boosts of your posts.
+  **All** - this is the default view and this shows every one of the new messages to your @handle, replies to, favorites and boosts of your posts.
 
-**Mentions** - The “at symbol” shows posts wherein your @handle was specifically included. This could be replies or new messages calling for your attention.
+  **Mentions** - The “at symbol” shows posts wherein your @handle was specifically included. This could be replies or new messages calling for your attention.
 
-**Boosts** - The double headed square arrow BOOSTS  an existing post. This mimics the other platforms’  Retweet or Share buttons. Like the star, no counting takes place. 
+  **Boosts** - The double headed square arrow BOOSTS  an existing post. This mimics the other platforms’  Retweet or Share buttons. Like the star, no counting takes place. 
 
-**Poll Reactions** - Polls in which you voted, as well as new polls started by your friends will show up here.
+  **Poll Reactions** - Polls in which you voted, as well as new polls started by your friends will show up here.
 
-**Follows** - Click the person to see a list of all the people who are following you. 
+  **Follows** - Click the person to see a list of all the people who are following you. 
 
 
-How To Adjust Your Notification Settings
-
-Click the Mixer icon in the top right corner of the column to open or close the list of options for customizing your notifcations. You might want to experiment to see what gives you the best experience; it will be different for each user. 
+To adjust your Notification Settings, click the Mixer icon in the top right corner of the column to open or close the list of options for customizing your notifcations. You might want to experiment to see what gives you the best experience; it will be different for each user. 
 
   **Quick Filter Bar** - this displays the icons described above, or not if you prefer.
 
