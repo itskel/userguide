@@ -32,27 +32,25 @@ While the CoSo Direcgtory is in development, here are a list of popular hashtags
 
 **Art & Entertainment**
 
-+------------------+-----------------+----------------+
-| Art              | CoSoMusic       | CoSoBooks      |
-+==================+=================+================+
-| CoSoArt          | Music           | CoSoBookClub   |
-+------------------+-----------------+----------------+
-| StreetArt        | NewMusicFriday  | CoSoHaiku      |
-+------------------+-----------------+----------------+
-| Photography      | PlayTheBlues    | MicroFiction   |
-+------------------+-----------------+----------------+
-| Comics           | CoSoClassical   | PipePoem       |
-+------------------+-----------------+----------------+
-| CoSoComics       | EarwormThursday | SixWordStory   |
-+------------------+-----------------+----------------+
-| CoSoPhotography  | CoSoGames       | CoSoPoetry     |
-+------------------+-----------------+----------------+
-| CoSoVideo        | CoSoGaming      | Poetry         |
-+------------------+-----------------+----------------+
-| CoSoFilm         | Gamers          | CSI            |
-+------------------+-----------------+----------------+
-| CoSoHorror       | RPG             |                |
-+------------------+-----------------+----------------+
-
-
-
+ ================== ================= ================ 
+  Art                CoSoMusic         CoSoBooks       
+ ================== ================= ================ 
+  CoSoArt            Music             CoSoBookClub    
+ ================== ================= ================ 
+  StreetArt          NewMusicFriday    CoSoHaiku       
+ ================== ================= ================ 
+  Photography        PlayTheBlues      MicroFiction    
+ ================== ================= ================ 
+  Comics             CoSoClassical     PipePoem        
+ ================== ================= ================ 
+  CoSoComics         EarwormThursday   SixWordStory    
+ ================== ================= ================ 
+  CoSoPhotography    CoSoGames         CoSoPoetry      
+ ================== ================= ================ 
+  CoSoVideo          CoSoGaming        Poetry          
+ ================== ================= ================ 
+  CoSoFilm           Gamers            CSI             
+ ================== ================= ================ 
+  CoSoHorror         RPG                               
+ ================== ================= ================ 
+                                                       
