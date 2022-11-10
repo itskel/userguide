@@ -65,6 +65,9 @@ Add or Remove Columns
 
 Content Filters
 ------------
+
+.. image:: img_filters.jpg
+
 | 
 | 
 | 
