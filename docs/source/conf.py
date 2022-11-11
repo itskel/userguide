@@ -35,13 +35,9 @@ html_logo = '_images/html_logo.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
-}
+    }
+html_css_files = ['custom.css',
+                  ('print.css', {'media': 'print'})]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-# These paths are either relative to html_static_path
-# or fully qualified paths (eg. https://...)
-html_css_files = [
-    'css/custom.css',
-]
