@@ -35,6 +35,8 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 # -- Enable CSS Overrides
+html_static_path = ['_static']
+
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 if not on_rtd:  # only import and set the theme if we're building docs locally
