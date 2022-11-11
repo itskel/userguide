@@ -37,7 +37,7 @@ Have you joined us from another platform, but aren’t quite sure how to tell yo
 
 | 
 | 
-CoSo Media Assets
+Media Assets
 ------------
 
 For the CounterSocial media kit visit: https://counter.social/mediakit.html
