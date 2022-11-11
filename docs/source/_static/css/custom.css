@@ -1,14 +1,26 @@
 @import 'theme.css';       /* for the Read the Docs theme */
 
-body {
-    /* ... */
+
+/*Typography*/
+
+p {font-size: 20px!important;
+    line-height: 28px!important;
 }
 
-General Theme
-
-p {font-size: 20px;
-    line-height: 28px;
+a {
+    color: #393f4f;
+    text-decoration: none;
+    cursor: pointer;
 }
+
+a:hover {
+    color: #2b90d9;
+}
+
+a:visited {
+    color: #393f4f;
+}
+
 
 
 /* Sidebar Customizations */
