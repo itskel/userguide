@@ -23,8 +23,6 @@ To make your posts more searchable and discoverable by other users, add a hashta
 
 `Click Here <https://coso-userguide.readthedocs.io/en/latest/popular-hashtags.html>`_ for a list of the most commonly used hashtags.
 
-Counter.Social (CoSo) was originally an instance on the Mastodon network where multiple communities shared a central “Community Firehose.” During this time, CoSo users would often prepend hashtags with #CoSo to differentiate between our community and others. You will find these hashtags are still popular today.  
-
 
 Attaching Media & Files
 ------------
