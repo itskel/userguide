@@ -5,10 +5,11 @@ Last Updated: November 9, 2022.
 
 The Desktop Layout
 ------------
+.. image:: img_columnlayout.jpg
 
 CounterSocial's (CoSo) layout presents various content in a series of columns. You can have as many or as few columns as you wish and configure each column's settings to your liking. When you first sign up, focus on your attention on the "Community Firehose" column. This is everyone's public post and a great place to get familiar with the layout while exploring features. If you have questions, simply create a post and include the #help hastag and a member of the community will guide you. 
 
-.. image:: img_columnlayout.jpg
+
 
 For an expanded, in-depth overview of the destop layout, visit CoSo user @MLClark's `article on OnlySky Media <https://onlysky.media/mclark/countersocial-isnt-the-new-twitter-its-something-way-better/>`_.
 
