@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Counter Social'
-copyright = '2021, Counter Social'
+copyright = '2022, Counter Social'
 author = 'Counter Social'
 
 release = '1.0'
