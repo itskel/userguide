@@ -52,8 +52,13 @@ a:visited {
 
 .rst-content .attention .admonition-title {
     background: none!important;
+    display: inline;
     font-size: 20px!important;
     color: #cea42a;
+}
+
+.rst-content .attention p:last-child {
+    line-height: 20px!important;
 }
 
 .rst-content .note {
@@ -63,8 +68,13 @@ a:visited {
 
 .rst-content .note .admonition-title {
     background: none!important;
+    display: inline;
     font-size: 20px!important;
     color: #2b90d9;
+}
+
+.rst-content .note p:last-child {
+    line-height: 20px!important;
 }
 
  .rst-content .warning {
@@ -74,6 +84,11 @@ a:visited {
 
 .rst-content .warning .admonition-title {
     background: none!important;
+    display: inline;
     font-size: 20px!important;
     color: #810100;
+}
+
+.rst-content .warning p:last-child {
+    line-height: 20px!important;
 }
