@@ -30,12 +30,15 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
+html_logo = 'html_logo.png'
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-# These folders are copied to the documentation's HTML output
-html_static_path = ['_static']
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
