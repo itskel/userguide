@@ -5,7 +5,7 @@ Last Updated: November 9, 2022.
 
 Who is Jester?
 ------------
-.. image:: img_thejester.jpg
+.. image:: _images/img_thejester.jpg
 
 Th3J3st3r is a prolific hacktivist and the creator of Counter.Social. He is listed in TIME Magazine’s Most Influential People Online, and his laptop is exhibited in the International Spy Museum in Washington, DC. His alleged escapades were described in articles and programs by NBC, Homeland Security Today, Gizmodo, Newsweek, Tech Insider, and the Larry King Show. Some may have noticed his cameo role in the USA Network TV show, Mr. Robot.
 
@@ -15,7 +15,7 @@ Visit https://counter.social/whojay.html for more info.
 | 
 Policy on Trolls & Abuse
 ------------
-.. image:: img_trollprocessor.jpg
+.. image:: _images/img_trollprocessor.jpg
 
 CounterSocial takes a zero-tolerance stance to hostile nations, bot accounts, trolls, provocateurs, and abuse. This includes users participating in gaslighting, baiting, sealioning, and dis/misinformation campaigns. Hate speech is also prohibited. While CoSo will block obvious offenders, tools are provided to mute/block any user or filter any keyword that you find offensive or unwanted in your personal view. 
 
@@ -40,7 +40,7 @@ Visit https://counter.social/supportcoso.html to support.
 System Performance & Metrics
 ----------------
 
-.. image:: img_netops.jpg
+.. image:: _images/img_netops.jpg
 
 Counter.Social (“CoSo”) developed several custom dashboards to provide administrative transparency and offer an at-a-glance view of the System Performance, User Trends, and New Member evolution. CoSo constantly monitors the internet ecosystem to mitigate threats to our community. Jester has developed real-time tools to show us the threats CoSo is up against every second of every day. CoSo Realtime Threat Dashboard shows who is trying to hack and/or infiltrate CoSo, by country of origin, hostname, and username. You can read more about the strategy at https://counter.social/faqs.html
 
@@ -51,7 +51,7 @@ Existing users can access this data anytime at https://netops.counter.social or 
 Relationship to Mastodon
 ----------------
 
-.. image:: img_mastodonfork.jpg
+.. image:: _images/img_mastodonfork.jpg
 
 Counter.Social is a hard fork of the Mastodon network under the Free Software Foundation (FSF) Affero General Public License (AGPL). At this time, we are an independent instance separated from the Mastodon federation. CoSo has its own Terms of Service and additional features installed on separate servers, to supplement Mastodon software with proprietary security and resources, for the health and safety of the community.
 

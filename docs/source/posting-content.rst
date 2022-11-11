@@ -5,7 +5,7 @@ Last Updated: November 10, 2022.
 
 The Post Box
 ------------
-.. image:: img_postboxlegend.jpg
+.. image:: _images/img_postboxlegend.jpg
 
 The Post Box is in the left column on desktop version or by pressing the blue pencil icon on the bottom right corner of your mobile device. The default character limit for text posts is 500 characters and can include links, hashtags, polls, content warnings, and emojis. PRO users can adjust privacy at the post level, as well as set an expiration date for a post to expire and self-destruct.
 
@@ -68,7 +68,7 @@ Setting Your Media Preferences
 ^^^^^^^^^^^^^
 Navigate to Edit Profile –> Preferences and scroll to the Media Display section to configure defaults for how you want media to display in your personal feeds. You can automatically hide all media marked as “sensitive,” choose if animated GIFs auto-play or even reduce their motion. 
 
-.. image:: img_mediasettings.jpg
+.. image:: _images/img_mediasettings.jpg
 
 
 | 
@@ -94,7 +94,7 @@ Editing Existing Posts
 ------------
 Rejoice! A version of the “edit” button has arrived. After you have posted, if you need to make changes to your post, click the three dots in the bottom right corner and select “Delete & Re-draft” to make changes and repost. Keep in mind, all boosts and favorites will be reset (deleted) and any original replies will not be linked to the new version. For instructions on editing a photo to change its orientation, see the `Editing Media <https://coso-userguide.readthedocs.io/en/latest/posting-content.html#editing-media>`_ section, above.
 
-.. image:: img_deleteandredraft.jpg
+.. image:: _images/img_deleteandredraft.jpg
 
 You can also delete the post completely, or select “Pin on Profile” to make it sticky at the top of your Profile page. You may have up to 5 pinned posts on your profile.
 

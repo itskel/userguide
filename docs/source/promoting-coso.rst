@@ -30,7 +30,7 @@ Have you joined us from another platform, but aren’t quite sure how to tell yo
 
 **Social Media Banners + Avatars**
 
-.. image:: img_socialmediabanner.jpg
+.. image:: _images/img_socialmediabanner.jpg
 
 | **Download Profile Picture**: https://share.counter.social/s/11ea40
 | **Download Header**: https://share.counter.social/s/d582f0

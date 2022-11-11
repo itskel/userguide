@@ -31,7 +31,7 @@ Setting Up Your Profile
  
 You can find all preferences and settings by clicking on the “Edit Profile” link found at the top of your profile page. 
 
-.. image:: img_editprofile.png
+.. image:: _images/img_editprofile.png
 
 .. note:: Remember to scroll to the bottom of the page and hit the SAVE button after making any changes.
 
@@ -41,7 +41,7 @@ Display Name
 ^^^^^^^^^^^^^
 While your @handle is fixed and unchangeable, you may update your Display Name at any time. The character limit is 24. In the example below, JΞSŦΞR ✪ ΔCŦUΔL³³°¹ is the Display Name and @th3j35t3r is their handle or "screen name." 
 
-.. image:: img_displayvsscreenname.jpg
+.. image:: _images/img_displayvsscreenname.jpg
 
 Other than badges and a blue check to denote PRO members, CounterSocial does not grant special status or symbols to individual accounts. Users are free to include symbols in their Display Names and the Emoji library is available to all users.  Country flags, checks marks (of any color!;-)) or others as your imagination dictates. 
 
@@ -72,7 +72,7 @@ Your header image is the banner that appears on top of your profile page when yo
 
 These examples show profiles with and without a header:
 
-.. image:: img_avatarheader.jpg
+.. image:: _images/img_avatarheader.jpg
 
 
 | 
@@ -88,7 +88,7 @@ CoSo is private by default. This means that your profile and posts are unavailab
 
 A PRO account Upgrade will provide a public landing page that is sharable with people outside of Counter.Social.  PRO users can enable this through the Public Landing Page section found in Profile –> Appearance. Your public share link will be visible below the settings box. Once enabled, a badge will appear on your profile page letting users know you are open to having your content linked to on 3rd party sites.
 
-.. image:: img_plpenabled.jpg
+.. image:: _images/img_plpenabled.jpg
 
 |
 Lock Account
@@ -110,7 +110,7 @@ CoSo allows you to display up to 4 items in a table at the top of your bio. You 
 If including links, a verification method is provided to be sure that the links you have entered are indeed sites you control. This feature prevents abusers from impersonating others or using CoSo for phishing campaigns. If you would like to verify your links and need help, simply create a post on counter.social and use the #help hashtag.
 
 
-.. image:: img_verifiedlinks.jpg
+.. image:: _images/img_verifiedlinks.jpg
 
 | 
 | 
