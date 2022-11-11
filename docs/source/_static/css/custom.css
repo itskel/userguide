@@ -4,12 +4,28 @@ body {
     /* ... */
 }
 
+General Theme
+
+p {font-size: 20px;
+    line-height: 28px;
+}
+
+
 /* Sidebar Customizations */
 
 .wy-side-nav-search {
     background-color: #393f4f;
 }
 
-.wy-nav-content {
-    max-width: 1200px !important;
+.wy-nav-side {
+    background-color: #212122;
+}
+
+
+.wy-side-nav-search {
+    border-radius: 0xp;
+}
+
+.wy-menu-vertical a {
+    font-size: 100%;
 }
