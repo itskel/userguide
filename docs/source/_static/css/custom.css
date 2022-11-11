@@ -47,11 +47,33 @@ a:visited {
 
 .rst-content .attention {
     background-color: #FFFFFF;
-    border: 3px #cea42a;
+    border: 3px solid #cea42a;
 }
 
 .rst-content .attention .admonition-title {
     background: none!important;
     font-size: 20px!important;
     color: #cea42a;
+}
+
+.rst-content .note {
+    background-color: #FFFFFF;
+    border: 3px solid #2b90d9;
+}
+
+.rst-content .note .admonition-title {
+    background: none!important;
+    font-size: 20px!important;
+    color: #2b90d9;
+}
+
+ .rst-content .warning {
+    background-color: #FFFFFF;
+    border: 3px solid #810100;
+}
+
+.rst-content .warning .admonition-title {
+    background: none!important;
+    font-size: 20px!important;
+    color: #810100;
 }
