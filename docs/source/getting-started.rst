@@ -61,6 +61,11 @@ Bio
 Write a short description of yourself to display on top of your profile page. The character limit is 500. Feel free to include hashtags that define your professions, interests, or group memberships so others can find you when searched.
 
 |
+Avatar
+^^^^^^^^^^^^^
+Your avatar is the photo or image that appears on top of your profile and next to your post. The current default is an egg.  Uncrack it now by uploading a PNG, GIF, or JPG image no larger than 2mb in size. Your image will be resized to 85x85 pixels. Square images are preferred.
+
+|
 Header
 ^^^^^^^^^^^^^
 Your header image is the banner that appears on top of your profile page when your screen name or display name are clicked. Please upload a PNG, GIF, or JPG no larger than 2mb. This image will be rescaled to 1500x500px.
@@ -68,11 +73,6 @@ Your header image is the banner that appears on top of your profile page when yo
 These examples show profiles with and without a header:
 
 .. image:: img_avatarheader.jpg
-
-|
-Avatar
-^^^^^^^^^^^^^
-Your avatar is the photo or image that appears on top of your profile and next to your post. The current default is an egg.  Uncrack it now by uploading a PNG, GIF, or JPG image no larger than 2mb in size. Your image will be resized to 85x85 pixels. Square images are preferred.
 
 
 | 
