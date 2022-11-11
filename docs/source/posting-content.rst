@@ -34,7 +34,7 @@ Click on the camera icon to attach photos, animated GIFs, or videos to your post
 Media File Types
 ^^^^^^^^^^^^^
 
-.. image:: img_mediasizes.jpg
+.. image:: _image/img_mediasizes.jpg
 
 +---------+-------------------------------------------+---------------+
 | Type    | Files Accepted                            | Max Size      |
@@ -70,7 +70,7 @@ Post Privacy Settings
 ------------
 Once you have configured your post, PRO users can set the privacy at the post draft level including unlisted, private, and direct message posting. PRO users can also visit Edit Profile --> Preferences to set the default privacy level for all future posts. 
 
-.. image:: img_postprivacysettings.jpg
+.. image:: _image/img_postprivacysettings.jpg
 
 **Public** - Posts appear in the community firehose, your friend’s timelines, and on your profile page. If your `Public Landing Page <https://coso-userguide.readthedocs.io/en/latest/getting-started.html#public-landing-page-plp>`_  is enabled, these posts are visible to the general public and are indexed by search engines. This is the default setting for regular users. 
 
