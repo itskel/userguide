@@ -40,11 +40,7 @@ Have you joined us from another platform, but aren’t quite sure how to tell yo
 CoSo Media Assets
 ------------
 
-**Logos & Icons**
-
-.. image:: img_graphics.jpg
-
-**Download Graphics (ZIP)**:  https://share.counter.social/s/76ccb4
+For the CounterSocial media kit visit: https://counter.social/mediakit.html
 
 | 
 | 
