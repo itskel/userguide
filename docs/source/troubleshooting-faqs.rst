@@ -1,52 +1,45 @@
 Troubleshooting & FAQs
 =====
 
-IN PRODUCTION - FIND FAQS FROM COSOTIPS + LINK TO THE SECTION IN THE USER GUIDE THAT ANSWERS EACH QUESTION
 
-.. note:: Last Updated: November 9, 2022.  
+Last Updated: November 9, 2022.  
 
 
 **Is there a way to switch CounterSocial to a light background?**
-**A:** 
+| **A:** 
 
 **The Desktop version is too busy for me? Is there a way to turn off features?**
-**A:** 
+| **A:** 
 
 **When I upload an image, it posts upside down or on its side. How do I fix this?**
-**A:** 
+| **A:** 
 
 **How do I find people to follow?**
-**A:**
+| **A:**
 
 **Someone is harrassing me in my DMs. How do I report it?**
-**A:** 
+| **A:** 
 
 **Is there a way to import or auto-follow friends from Twitter or my phone contacts?**
-**A:**
+| **A:**
 
 **Help! I've accidently unpinned the Community Firehose. How do I get it back?**
-**A:** 
+| **A:** 
 
 **When I try to publish my post, the post button doesn't work. What am I doing wrong?**
-**A:** 
+| **A:** 
 
 **I am missing columns or features from the Desktop version. Why are they not displaying?**
-**A:** 
+| **A:** 
 
 **I am having problems with my PRO subscription. How do I get help?**
-**A:** 
+| **A:** 
 
 **Is there a place to view the most commonly used Hashtags?**
-**A:** 
+| **A:** 
 
 **I am having problems with my PRO subscription. How do I get help?**
-**A:** 
+| **A:** 
 
-| 
-| 
+
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community.
-
-
-
-
-

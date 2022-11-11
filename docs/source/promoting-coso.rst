@@ -20,9 +20,6 @@ While the custom has become a proud tradition and testament to the community’s
       | "Welcome. Visit @CoSoTips for the user guide and FAQs." 
 
 
-| 
-| 
-
 Promoting Your Account on Other Sites
 ------------
 
@@ -35,22 +32,19 @@ Have you joined us from another platform, but aren’t quite sure how to tell yo
 | **Download Profile Picture**: https://share.counter.social/s/11ea40
 | **Download Header**: https://share.counter.social/s/d582f0
 
-| 
-| 
+
 Media Assets
 ------------
 
 For the CounterSocial media kit visit: https://counter.social/mediakit.html
 
-| 
-| 
+
 Press Requests
 ------------
 
 For interviews or feature requests please email **Press(@)counter.social** and include your name, publication, and links to previously published stories for consideration. 
 
 
-| 
-| 
+
 
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 

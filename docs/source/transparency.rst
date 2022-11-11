@@ -11,23 +11,20 @@ Th3J3st3r is a prolific hacktivist and the creator of Counter.Social. He is list
 
 Visit https://counter.social/whojay.html for more info. 
 
-| 
-| 
+
 Policy on Trolls & Abuse
 ------------
 .. image:: _images/img_trollprocessor.jpg
 
 CounterSocial takes a zero-tolerance stance to hostile nations, bot accounts, trolls, provocateurs, and abuse. This includes users participating in gaslighting, baiting, sealioning, and dis/misinformation campaigns. Hate speech is also prohibited. While CoSo will block obvious offenders, tools are provided to mute/block any user or filter any keyword that you find offensive or unwanted in your personal view. 
 
-| 
-| 
+
 The CounterSocial Team
 ------------
 
 CounterSocial does not have any excutives, board of directors, or employees and is operated and managed solely by Jester. The CoSo community self-moderates through a unique structure that surfaces troll, bot, and abuse sightings, escalates support issues, and empowers every user to contribute to the health and safety of the overall platform. 
 
-| 
-| 
+
 Funding Sources
 ----------------
 
@@ -35,8 +32,7 @@ Counter.Social’s funding is provided by Jester as the sole operator of the pla
 
 Visit https://counter.social/supportcoso.html to support. 
 
-| 
-| 
+
 System Performance & Metrics
 ----------------
 
@@ -46,8 +42,7 @@ Counter.Social (“CoSo”) developed several custom dashboards to provide admin
 
 Existing users can access this data anytime at https://netops.counter.social or by clicking the “Network Status” link in the Navigation column.
 
-| 
-| 
+
 Relationship to Mastodon
 ----------------
 
@@ -57,8 +52,7 @@ Counter.Social is a hard fork of the Mastodon network under the Free Software Fo
 
 Read: `The Short History of CounterSocial and Mastodon <https://countersocial.documize.com/s/c30dhakp0nhtab60utag/countersocial-blog/d/c5piofvuaqg133k3is90/the-short-history-of-countersocial-and-mastodon/>`_
 
-| 
-| 
+
 License & Policies
 ----------------
 
@@ -69,8 +63,5 @@ License & Policies
 | GDPR Policy: https://counter.social/gdpr.html
 | CCPA Policy: https://counter.social/ccpa.html
 
-
-| 
-| 
 
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
