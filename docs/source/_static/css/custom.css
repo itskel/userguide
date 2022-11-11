@@ -5,8 +5,12 @@ body {
     /* ... */
 }
 
-# -- Sidebar Customizations
+/* Sidebar Customizations */
 
 .wy-side-nav-search {
     background-color: #393f4f;
+}
+
+.wy-nav-content {
+    max-width: 1200px !important;
 }
