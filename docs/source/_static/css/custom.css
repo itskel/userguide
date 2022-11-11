@@ -42,3 +42,16 @@ a:visited {
     font-size: 95%;
     color: #efefef;
 }
+
+/* Notification Boxes */
+
+.rst-content .attention {
+    background-color: #FFFFFF;
+    border: 3px #cea42a;
+}
+
+.rst-content .attention .admonition-title {
+    background: none!important;
+    font-size: 20px!important;
+    color: #cea42a;
+}
