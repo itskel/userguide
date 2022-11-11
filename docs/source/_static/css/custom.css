@@ -3,12 +3,12 @@
 
 /*Typography*/
 
-p {font-size: 20px!important;
+p {font-size: 18px!important;
     line-height: 28px!important;
 }
 
 a {
-    color: #393f4f;
+    color: #cea42a;
     text-decoration: none;
     cursor: pointer;
 }
@@ -18,12 +18,11 @@ a:hover {
 }
 
 a:visited {
-    color: #393f4f;
+    color: #cea42a;
 }
 
 
-
-/* Sidebar Customizations */
+/* Sidebar Navigation */
 
 .wy-side-nav-search {
     background-color: #393f4f;
@@ -40,5 +39,6 @@ a:visited {
 }
 
 .wy-menu-vertical a {
-    font-size: 100%;
+    font-size: 95%;
+    color: #efefef;
 }
