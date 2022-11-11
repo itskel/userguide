@@ -36,7 +36,7 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
     }
-html_css_files = ['custom.css',
+html_css_files = ['css/custom.css',
                   ('print.css', {'media': 'print'})]
 
 # -- Options for EPUB output

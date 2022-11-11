@@ -1,3 +1,9 @@
+@import 'theme.css';       /* for the Read the Docs theme */
+
+body {
+    /* ... */
+}
+
 /* Sidebar Customizations */
 
 .wy-side-nav-search {
