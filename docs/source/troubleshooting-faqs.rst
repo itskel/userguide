@@ -59,7 +59,11 @@ Last Updated: November 11, 2022.
 **I am having problems with my PRO subscription. How do I get help?**
 	**A:** You can manage most issues including billing updates, renewals, and/or cancellations through the `PRO Account Portal <https://counter.social/accmgt/getpro.php/>`_. For your security and privacy, all PRO subscriptions are handled by a seperate payment processor. While your email address links your PRO account to CoSo, it is possible to have different passwords. If you are having access issues, use the "Forgot Password" link below the login fields in the PRO Portal. For all other issues, please email payments@counter.social and allow 24 hours for a reply.
 
+**Is there a place to view the most commonly used Hashtags?**
+	**A:**`Click Here <https://coso-userguide.readthedocs.io/en/latest/popular-hashtags.html>`_ for the Popular Hashtags section in this manual. These are some of the more common hashtags, but there are many others, some used by a select few and others for whole sub-communities. We're working on a better way to capture common hashtags. Follow @CoSoTips for updates.
 
+**Where do I find Keyboard Shortcuts?**
+	**A:** On a desktop browser, press the question mark (?) key. If you are on a mobile device, swipe left.
 
 **How does the algorithm work here?**
 	**A:** It's actually very simple. There isn't one.
