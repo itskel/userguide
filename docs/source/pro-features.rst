@@ -98,4 +98,4 @@ CounterShare
 
 | 
 | 
-.. attention:: For help in support regarding PRO subscriptions please email payments(@)counter.social. 
+.. attention:: For support with your PRO subscription please email payments(@)counter.social. 
