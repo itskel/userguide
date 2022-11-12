@@ -49,6 +49,16 @@ h2 {
     background-color: #212122;
 }
 
+.wy-nav-top {
+    background: #393f4f!important;
+}
+
+.wy-nav-top a {
+    font-weight: 700;
+    color: #FFFFFF!important;
+    font-size: 125%
+}
+
 
 .wy-side-nav-search {
     border-radius: 0px;
