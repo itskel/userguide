@@ -11,7 +11,7 @@ No Bots | No Trolls | No Advertising | No Misinformation | No Abuse
 
    This project is under active development.
 
-Contents
+Table of Contents
 --------
 
 .. toctree::
