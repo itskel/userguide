@@ -2,7 +2,7 @@ Troubleshooting & FAQs
 =====
 
 
-Last Updated: November 9, 2022.  
+Last Updated: November 11, 2022.  
 
 
 **Is there a way to switch CounterSocial to a light background?**
@@ -49,10 +49,10 @@ The best way to find *your* people is to post about what you're interested in, i
 #. Lastly, CounterSocial may be experiencing intermittent issues. If the solutions above are not the issue, refresh the page to try again. 
 
 **When I upload my image/video/gif, it doesn't attach to the post. What gives?**
-It's likely you are uploading media over the maximum allowable sizes of 8MB for images and 40MB for audio/video, or are uploading an unsupported file type. 
+| **A:**It's likely you are uploading media over the maximum allowable sizes of 8MB for images and 40MB for audio/video, or are uploading an unsupported file type. 
 
 
-**I am missing columns or features from the Desktop version. Why are they not displaying?**
+**I am missing columns or features from the Desktop version. Where are they?**
 | **A:** 
 
 **I am having problems with my PRO subscription. How do I get help?**
