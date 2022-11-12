@@ -53,16 +53,24 @@ The best way to find *your* people is to post about what you're interested in, i
 
 
 **I am missing columns or features from the Desktop version. Where are they?**
-| **A:** 
+| **A:** CoSo is optimized to fit the device or screen resolutioin that you are using. In the case where the screen resolution is low or your on a small laptop or monitor, the layout will automatically drop non-core items to fit core elements in the space. This may include your avatar, screen name, and "edit profile" link above the post box, the CounterShare button in the Navigation column, or the News broadcast or CoSoCom players on the bottom left. To check if this the case, on your keyboard hold down the CTRL key while pressing - (minus) to zoom out or + (plus) to zoom back in. 
+
+This is a temporary issue while CoSo evolves to be responsive on all screens and devices.  
 
 **I am having problems with my PRO subscription. How do I get help?**
-| **A:** 
+| **A:** Access your Pro Account Portal here. Log in, and on the Home page in the lower right is a SEND EMAIL button. Fill in the form and submit it. Check your Pro Account registered email for the response.
 
-**Is there a place to view the most commonly used Hashtags?**
-| **A:** 
+**How does the algorithm work here?**
+| **A:** It's actually very simple. There isn't one.
 
-**I am having problems with my PRO subscription. How do I get help?**
-| **A:** 
+**How do I increase my Follower count?**
+| **A:** Follower counts are meaningless on CoSo. There's no algorithm here, so there is no expectation for anyone to follow you back. Focus on whom you want to follow, not who follows you.
+
+**Where are the GIFS?**
+| **A:** For now, you've got to do .gifs old school. Head to https://tenor.com and download your favourite .gif. For best results, use the .mp4 version. Then, upload your .gif as a media attachment using the camera icon in the post editor.
+
+
+
 
 
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community.
