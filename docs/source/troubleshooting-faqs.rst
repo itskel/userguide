@@ -8,8 +8,8 @@ Last Updated: November 11, 2022.
 **Is there a way to switch CounterSocial to a light background?**
  |**A:** Unfortunately, no. CounterSocial does not yet support native theming but is something we hope to develop in the future. We hear mixed results, but you can try using the DarkReader Extension to your Chrome browser to lighten the background. 
 
-Dark Reader Browser Extension:  `Chrome/Brave<https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>`_
-Note: Using "Light Mode," start by adjusting the settings to +45 brightness, +30 contrast, and +50% sepia and adjust to your liking.
+Dark Reader Browser Extension: `Chrome and Brave <https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>`_
+ |Using "Light Mode," start by adjusting the settings to +45 brightness, +30 contrast, and +50% sepia and adjust to your liking.
 
 **The Desktop version is too busy for me? Is there a way to turn off features?**
  |**A:** We understand that CoSo on the desktop can be overwhelming. Go to Edit Profile > Preferences and enable Ostrich Mode to remove the MSNBC news ticker, COSOTV channel selector, COSOCOM radio scanner, Network Sentiment Meter, and Trending Hashtags. Note: We are aware that some users lose Ostrich Mode after logging out of CounterSocial. A fix is on our considerably long to-do list. You can easily re-enable it in your Preferences.
