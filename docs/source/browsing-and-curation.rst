@@ -44,67 +44,50 @@ The header also includes some icons for filtering the list of notifications that
 Add or Remove Columns
 ------------
 
-.. image:: img_columnsettings.jpg
-| 
-| 
-| 
-| 
-| IN PRODUCTION - Writer: Bluesbaby
-| 
-| 
-| 
-| 
+.. image:: _images/img_columnsettings.jpg
+
+Are there topics that you want to see all the time? You can pin your favourite hashtags into new columns if you're on the desktop app.
+
+Use Search to find a hashtag or click any hashtag in a post. All the posts using that hashtag appear in the far-right column. 
+
+From there, click on the sliders icon, and pin the hashtag to a new column. Once you have a new column, you can open the slider and add as many hashtags as you'd like. You can also specify hashtags to omit. We have all the tools to curate your experience here.
+
+To position the column, open the slider icon and use the < >. To remove a column, open the slider icon and select Unpin.
+
 
 Content Filters
 ------------
 
 .. image:: _images/img_filters.jpg
 
-| 
-| 
-| 
-| 
-| IN PRODUCTION - Writer: Bluesbaby/Phase
-| 
-| 
-| 
-| 
+If there are topics that you'd prefer never to see, we have Filters on the desktop app. Go to the Edit Profile link at the top of your profile page or above the Post box. Select Filters.
+
+To create filters, you'll need to configure one word, term, or phrase per entry. You can also uncheck "whole word" to catch more items with singular filters. For example, if you used partial word filtering on "vote," you wouldn't see posts about people expressing how devoted they are to #catsofcoso. 
+
+
 
 Following Users
 ------------
-| 
-| 
-| 
-| 
-| IN PRODUCTION - Writer: Bluesbaby
-| 
-| 
-| 
-| 
+You're free to follow whomever you'd like. Click on any user name, and their profile appears in the far-right column on the desktop. Select the Follow button, and their posts load in your Friends column.
+
+You can also Search for users and favourite hashtags. Don't worry if it tells you that hashtags don't have posts, just tap on the hashtag to see what's there and who is posting.
+
 
 Lists
 ------------
-| 
-| 
-| 
-| 
-| IN PRODUCTION - Writer: Bluesbaby
-| 
-| 
-| 
-| 
+Set up custom lists to ensure you never miss what your favourite followers post. Select Lists in the far-right column on the desktop or under the slider on the mobile app. Enter a New List Title. Then select the title just created and open the slider icon in the top right. Select Edit list and add @names of people you follow.
+
+Or, you can add people to your List from their Profile page. Click the menu (three dots) and select Add or Remove from Lists.
+
 
 Mute & Block Users
 ------------
-| 
-| 
-| 
-| 
-| IN PRODUCTION - Writer: Bluesbaby
-| 
-| 
-| 
-| 
+On CounterSocial, you are encouraged to mute or block people without hesitation if they are annoying you for any reason. Click the three dots at the bottom on any post and select Mute or Block.
 
+When Muting, all Notifications from that user are hidden. If you uncheck Hide Notifications from this user, any interactions (Likes, Boosts, Comments) still appear in your Notifications column.
 
+You can always Unmute or Unblock followers. Select Mutes or Blocks in the far-right column on the desktop or under the slider on the mobile app.
+
+ |
+ |
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
