@@ -1,7 +1,7 @@
 Developer Resources
 =====
 
-.. note:: Last Updated: November 9, 2022. 
+Last Updated: November 9, 2022. 
 
 Policy on BOTs & Automation
 ----------
@@ -15,4 +15,6 @@ API & SDK
 
 For information about CounterSocial's API and SDK resources please visit: https://counter.social/apidocs/client/intro/index.html
 
+ |
+ |
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community.

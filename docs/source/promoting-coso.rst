@@ -1,7 +1,7 @@
 Promoting CoSo
 =====
 
-.. note:: Last Updated November 9, 2022. 
+Last Updated November 9, 2022. 
 
 
 Welcoming New Users
