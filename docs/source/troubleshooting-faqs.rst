@@ -43,12 +43,12 @@ Last Updated: November 11, 2022.
 
 **When I try to publish my post, the post button doesn't work. What am I doing wrong?**
 	**A:** There are multiple issues that cause this problem. 
-#. You have exceeded the maxium character count.
-#. Your post may contain special characters that resemble programming code that hackers use to exploit the system. Check for odd punctionation combitions such as brackets [], currency symbols $, and/or quotations "" and, if found, make some adjustments.
-#. Lastly, CounterSocial may be experiencing intermittent issues. If the solutions above are not the issue, refresh the page to try again. 
+	#. You have exceeded the maxium character count.
+	#. Your post may contain special characters that resemble programming code that hackers use to exploit the system. Check for odd punctionation combitions such as brackets [], currency symbols $, and/or quotations "" and, if found, make some adjustments.
+	#. Lastly, CounterSocial may be experiencing intermittent issues. If the solutions above are not the issue, refresh the page to try again. 
 
 **When I upload my image/video/gif, it doesn't attach to the post. What gives?**
-	**A:**It's likely you are uploading media over the maximum allowable sizes of 8MB for images and 40MB for audio/video, or are uploading an unsupported file type. 
+	**A:** It's likely you are uploading media over the maximum allowable sizes of 8MB for images and 40MB for audio/video, or are uploading an unsupported file type. 
 
 
 **I am missing columns or features from the Desktop version. Where are they?**
