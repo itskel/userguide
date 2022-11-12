@@ -57,7 +57,9 @@ Last Updated: November 11, 2022.
 	This is a temporary issue while CoSo evolves to be responsive on all screens and devices.  
 
 **I am having problems with my PRO subscription. How do I get help?**
-	**A:** Access your Pro Account Portal here. Log in, and on the Home page in the lower right is a SEND EMAIL button. Fill in the form and submit it. Check your Pro Account registered email for the response.
+	**A:** You can manage most issues including billing updates, renewals, and/or cancellations through the `PRO Account Portal <https://counter.social/accmgt/getpro.php/>`_. For your security and privacy, all PRO subscriptions are handled by a seperate payment processor. While your email address links your PRO account to CoSo, it is possible to have different passwords. If you are having access issues, use the "Forgot Password" link below the login fields in the PRO Portal. For all other issues, please email payments@counter.social and allow 24 hours for a reply.
+
+
 
 **How does the algorithm work here?**
 	**A:** It's actually very simple. There isn't one.
