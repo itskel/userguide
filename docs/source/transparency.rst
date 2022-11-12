@@ -12,20 +12,20 @@ Th3J3st3r is a prolific hacktivist and the creator of Counter.Social. He is list
 Visit https://counter.social/whojay.html for more info. 
 
 
-Policy on Trolls & Abuse
+Abuse Policy
 ------------
 .. image:: _images/img_trollprocessor.jpg
 
 CounterSocial takes a zero-tolerance stance to hostile nations, bot accounts, trolls, provocateurs, and abuse. This includes users participating in gaslighting, baiting, sealioning, and dis/misinformation campaigns. Hate speech is also prohibited. While CoSo will block obvious offenders, tools are provided to mute/block any user or filter any keyword that you find offensive or unwanted in your personal view. 
 
 
-The CounterSocial Team
+The Team
 ------------
 
 CounterSocial does not have any excutives, board of directors, or employees and is operated and managed solely by Jester. The CoSo community self-moderates through a unique structure that surfaces troll, bot, and abuse sightings, escalates support issues, and empowers every user to contribute to the health and safety of the overall platform. 
 
 
-Funding Sources
+Funding
 ----------------
 
 Counter.Social’s funding is provided by Jester as the sole operator of the platform, and supplemented by the community through a PRO subscription tier, a premium which unlocks additional features and functionality. The platform also accepts private donations through Donorbox, Patreon, and direct Bitcoin transfers. These funds pay for server, bandwidth, and software needed to keep Counter.Social running. Funding progress toward the monthly goal is displayed through the meter located in the platform’s Navigation column. There are no investors, stakeholders, or venture capital initiatives funding this project. It is 100% community funded.
@@ -33,7 +33,7 @@ Counter.Social’s funding is provided by Jester as the sole operator of the pla
 Visit https://counter.social/supportcoso.html to support. 
 
 
-System Performance & Metrics
+System Metrics
 ----------------
 
 .. image:: _images/img_netops.jpg
@@ -53,7 +53,7 @@ Counter.Social is a hard fork of the Mastodon network under the Free Software Fo
 Read: `The Short History of CounterSocial and Mastodon <https://countersocial.documize.com/s/c30dhakp0nhtab60utag/countersocial-blog/d/c5piofvuaqg133k3is90/the-short-history-of-countersocial-and-mastodon/>`_
 
 
-License & Policies
+Licenses & Policies
 ----------------
 
 | Licensing:  https://counter.social/terms.html

@@ -21,6 +21,23 @@ a:visited {
     color: #15588c;
 }
 
+h1 {
+    font-size: 200%;
+}
+
+.rst-content h1 {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 175%;
+}
+
+.rst-content h2 {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
 
 /* Sidebar Navigation */
 
